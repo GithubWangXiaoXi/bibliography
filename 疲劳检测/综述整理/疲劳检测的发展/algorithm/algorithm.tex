@@ -1,0 +1,36 @@
+﻿\documentclass[]{book}
+\usepackage[UTF8]{ctex}  %如果不添加不能正常显示中文
+\usepackage{algorithmic}
+\usepackage{algorithm}
+\floatname{algorithm}{算法}
+\renewcommand{\algorithmicrequire}{\textbf{输入:}}
+\renewcommand{\algorithmicensure}{\textbf{输出:}}
+%\renewcommand{\algorithmicensure}{\textbf{Output:}}
+%\renewcommand{\algorithmicrequire}{\textbf{Input:}}
+
+\begin{document}
+\begin{algorithm}[2]
+\caption{信息增益算法}
+\label{alg:Framwork}
+\begin{algorithmic}[] %这个1 表示每一行都显示数字
+\REQUIRE ~~训练数据集$D$和特征$A$  \\ %算法的输入参数：Input
+
+\ENSURE ~~特征A对训练数据集$D$的信息增益$g(D,A)$ \\ %算法的输出：Output
+(1) 计算数据集D的经验熵$H(D)$ \\
+\begin{array}{c}
+\quad \quad H(D) = - \sum_{k=1}^{K} \frac{|C_k|}{|D|}log_2\frac{|C_k|}{|D|}
+\end{array}
+
+(2)计算特征A对数据集D的经验条件熵$H(D|A)$ \\
+\begin{array}{c}
+\quad \quad H(D|A)= \sum_{i=1}^{n} \frac{|D_i|}{|D|}H(D_i) = -\sum_{i=1}^n \frac{|D_i|}{|D|} \sum_{k=1}^K \frac{|D_{ik}|}{|D_i|}log_2\frac{|D_{ik}|}{|D_i|}
+\end{array}
+
+(3)计算信息增益 \\
+\begin{array}{c}
+\quad \quad g(D|A) = H(D) - H(D|A)
+\end{array}
+\end{algorithmic}
+\end{algorithm}
+\end{document}
+

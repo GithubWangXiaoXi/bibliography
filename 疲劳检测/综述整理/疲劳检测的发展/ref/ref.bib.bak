@@ -1,0 +1,327 @@
+@mastersthesis{123a,
+  title={鍩轰簬娣卞害瀛︿範鐨勫０绾硅瘑鍒畻娉曠爺绌秨,
+  author={閮寳娑祡,
+  year={2020},
+  school={鍚夋灄澶у}
+}
+
+@article{ren2015faster,
+  title={Faster r-cnn: Towards real-time object detection with region proposal networks},
+  author={Ren, Shaoqing and He, Kaiming and Girshick, Ross and Sun, Jian},
+  journal={arXiv preprint arXiv:1506.01497},
+  year={2015}
+}
+
+@inproceedings{malov2019fatigue,
+  title={Fatigue Recognition based on Audiovisual Content},
+  author={Malov, Dmitrii and Shumskaya, Olga},
+  booktitle={2019 1st International Conference on Control Systems, Mathematical Modelling, Automation and Energy Efficiency (SUMMA)},
+  pages={556--559},
+  year={2019},
+  organization={IEEE}
+}
+
+@ARTICLE{6523142,
+    author={G. {de Haan} and V. {Jeanne}},
+    journal={IEEE Transactions on Biomedical Engineering},
+    title={Robust Pulse Rate From Chrominance-Based rPPG},
+    year={2013},
+    volume={60},
+    number={10},
+    pages={2878-2886},
+    doi={10.1109/TBME.2013.2266196}
+}
+
+@article{de2014improved,
+  title={Improved motion robustness of remote-PPG by using the blood volume pulse signature},
+  author={De Haan, Gerard and Van Leest, Arno},
+  journal={Physiological measurement},
+  volume={35},
+  number={9},
+  pages={1913},
+  year={2014},
+  publisher={IOP Publishing}
+}
+
+@article{poh2010non,
+  title={Non-contact, automated cardiac pulse measurements using video imaging and blind source separation.},
+  author={Poh, Ming-Zher and McDuff, Daniel J and Picard, Rosalind W},
+  journal={Optics express},
+  volume={18},
+  number={10},
+  pages={10762--10774},
+  year={2010},
+  publisher={Optical Society of America}
+}
+
+@article{verkruysse2008remote,
+  title={Remote plethysmographic imaging using ambient light.},
+  author={Verkruysse, Wim and Svaasand, Lars O and Nelson, J Stuart},
+  journal={Optics express},
+  volume={16},
+  number={26},
+  pages={21434--21445},
+  year={2008},
+  publisher={Optical Society of America}
+}
+
+@article{wang2016algorithmic,
+  title={Algorithmic principles of remote PPG},
+  author={Wang, Wenjin and den Brinker, Albertus C and Stuijk, Sander and De Haan, Gerard},
+  journal={IEEE Transactions on Biomedical Engineering},
+  volume={64},
+  number={7},
+  pages={1479--1491},
+  year={2016},
+  publisher={IEEE}
+}
+
+@article{liu2018self,
+  title={Self-adaptive signal separation for non-contact heart rate estimation from facial video in realistic environments},
+  author={Liu, Xuenan and Yang, Xuezhi and Jin, Jing and Li, Jiangshan},
+  journal={Physiological measurement},
+  volume={39},
+  number={6},
+  pages={06NT01},
+  year={2018},
+  publisher={IOP Publishing}
+}
+
+@article{wang2017amplitude,
+  title={Amplitude-selective filtering for remote-PPG},
+  author={Wang, Wenjin and den Brinker, Albertus C and Stuijk, Sander and de Haan, Gerard},
+  journal={Biomedical optics express},
+  volume={8},
+  number={3},
+  pages={1965--1980},
+  year={2017},
+  publisher={Optical Society of America}
+}
+
+@inproceedings{osman2015supervised,
+  title={Supervised learning approach to remote heart rate estimation from facial videos},
+  author={Osman, Ahmed and Turcot, Jay and El Kaliouby, Rana},
+  booktitle={2015 11th IEEE International Conference and Workshops on Automatic Face and Gesture Recognition (FG)},
+  volume={1},
+  pages={1--6},
+  year={2015},
+  organization={IEEE}
+}
+
+@article{poh2010advancements,
+  title={Advancements in noncontact, multiparameter physiological measurements using a webcam},
+  author={Poh, Ming-Zher and McDuff, Daniel J and Picard, Rosalind W},
+  journal={IEEE transactions on biomedical engineering},
+  volume={58},
+  number={1},
+  pages={7--11},
+  year={2010},
+  publisher={IEEE}
+}
+
+@article{monkaresi2013machine,
+  title={A machine learning approach to improve contactless heart rate monitoring using a webcam},
+  author={Monkaresi, Hamed and Calvo, Rafael A and Yan, Hong},
+  journal={IEEE journal of biomedical and health informatics},
+  volume={18},
+  number={4},
+  pages={1153--1160},
+  year={2013},
+  publisher={IEEE}
+}
+
+@inproceedings{ma2001facial,
+  title={Facial expression recognition using constructive neural networks},
+  author={Ma, Liying and Khorasani, Khashayar},
+  booktitle={Signal Processing, Sensor Fusion, and Target Recognition X},
+  volume={4380},
+  pages={521--530},
+  year={2001},
+  organization={International Society for Optics and Photonics}
+}
+
+@article{kyperountas2010salient,
+  title={Salient feature and reliable classifier selection for facial expression classification},
+  author={Kyperountas, Marios and Tefas, Anastasios and Pitas, Ioannis},
+  journal={Pattern Recognition},
+  volume={43},
+  number={3},
+  pages={972--986},
+  year={2010},
+  publisher={Elsevier}
+}
+
+@article{zheng2006facial,
+  title={Facial expression recognition using kernel canonical correlation analysis (KCCA)},
+  author={Zheng, Wenming and Zhou, Xiaoyan and Zou, Cairong and Zhao, Li},
+  journal={IEEE transactions on neural networks},
+  volume={17},
+  number={1},
+  pages={233--238},
+  year={2006},
+  publisher={IEEE}
+}
+
+@phdthesis{Fuxiaofen0,
+  title={基于二元模式的人脸识别与表情识别研究},
+  author={付晓峰},
+  school={浙江大学电气工程学院 浙江大学},
+}
+
+@article{yacoob1996recognizing,
+  title={Recognizing human facial expressions from long image sequences using optical flow},
+  author={Yacoob, Yaser and Davis, Larry S},
+  journal={IEEE Transactions on pattern analysis and machine intelligence},
+  volume={18},
+  number={6},
+  pages={636--642},
+  year={1996},
+  publisher={IEEE}
+}
+
+@article{tsalakanidou2010real,
+  title={Real-time 2D+ 3D facial action and expression recognition},
+  author={Tsalakanidou, Filareti and Malassiotis, Sotiris},
+  journal={Pattern Recognition},
+  volume={43},
+  number={5},
+  pages={1763--1775},
+  year={2010},
+  publisher={Elsevier}
+}
+
+@article{wang2007static,
+  title={Static topographic modeling for facial expression recognition and analysis},
+  author={Wang, Jun and Yin, Lijun},
+  journal={Computer Vision and Image Understanding},
+  volume={108},
+  number={1-2},
+  pages={19--34},
+  year={2007},
+  publisher={Elsevier}
+}
+
+@article{sung2008pose,
+  title={Pose-Robust Facial Expression Recognition Using View-Based 2D $+ $ 3D AAM},
+  author={Sung, Jaewon and Kim, Daijin},
+  journal={IEEE Transactions on Systems, Man, and Cybernetics-Part A: Systems and Humans},
+  volume={38},
+  number={4},
+  pages={852--866},
+  year={2008},
+  publisher={IEEE}
+}
+
+@article{kotsia2006facial,
+  title={Facial expression recognition in image sequences using geometric deformation features and support vector machines},
+  author={Kotsia, Irene and Pitas, Ioannis},
+  journal={IEEE transactions on image processing},
+  volume={16},
+  number={1},
+  pages={172--187},
+  year={2006},
+  publisher={IEEE}
+}
+
+@article{cohen2003facial,
+  title={Facial expression recognition from video sequences: temporal and static modeling},
+  author={Cohen, Ira and Sebe, Nicu and Garg, Ashutosh and Chen, Lawrence S and Huang, Thomas S},
+  journal={Computer Vision and image understanding},
+  volume={91},
+  number={1-2},
+  pages={160--187},
+  year={2003},
+  publisher={Elsevier}
+}
+
+@article{XuWenhui2009,
+  title={面向视频序列表情分类的LSVM算法},
+  author={徐文晖 and 孙正兴},
+  journal={计算机辅助设计与图形学学报},
+  volume={21},
+  number={004},
+  pages={542-548,553},
+  year={2009},
+}
+
+@article{XuQinZhen2008,
+  title={基于混淆交叉支撑向量机树的自动面部表情分类方法},
+  author={徐琴珍 and 章品正 and 裴文江 and 杨绿溪 and 何振亚},
+  journal={中国图象图形学报},
+  number={07},
+  pages={1329-1334},
+  year={2008},
+}
+
+@inproceedings{fabian2016emotionet,
+  title={Emotionet: An accurate, real-time algorithm for the automatic annotation of a million facial expressions in the wild},
+  author={Fabian Benitez-Quiroz, C and Srinivasan, Ramprakash and Martinez, Aleix M},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={5562--5570},
+  year={2016}
+}
+
+@inproceedings{fabian2017recognition,
+  title={Recognition of Action Units in the Wild With Deep Nets and a New Global-Local Loss},
+  author={Fabian Benitez-Quiroz, C and Wang, Yan and Martinez, Aleix M},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={3970--3979},
+  year={2017}
+}
+
+@PhdThesis{renlianbiaoqingshibie,
+	author = {何良华},
+	title = {人脸表情识别中若干关键技术的研究},
+	school = {东南大学},
+	year = {2005},
+	tertiaryauthor = {邹采荣},
+	typeofwork = {博士},
+	keywords = {情感计算;自动人脸表情识别(AFER);人脸检测;梯度模板;面部特征配准;主动形状模型(ASM);主成分分析(PCA);Eigenface;离散小波变换(DWT);离散余弦变换(DCT);ZIGZAG拉直;AdaBoost;AdaICA方法;局部二元模式(LBP);独立分量分析(ICA)},
+	abstract = {自动人脸表情识别(AFER)是近年来发展起来的研究热点,其目的是让计算机等机器辨认出人类特有的情感表现之一——表情。由于人表情的复杂、微妙等特性使得表情识别变得异常的具有挑战与艰巨性,就整个识别系统来说,主要表现在以下几个方面:(1)人脸数据获取的速度与准确率问题;(2)作为识别必要前提条件的面部关键特征精确定位问题;(3)表情特征的提取与识别问题。本文重点探讨了人脸表情识别中的上述关键问题。主要工作总结如下:	1.从情感出发,在简要介绍情绪理论的基础上,全面综述了表情识别的研究历史与现状。讨论了情感计算在国际与国内的研究状况,介绍了情感的基础情绪的基本理论,重点而全面地综述了情绪的表达方式之一——面部表情的识别技术。将人脸表情识别工作划分为两个部分,概括地描述了表情识别的一般模型。根据表情识别的目的、手段将其分为三个阶段,对每个阶段的研究特点以及代表性方法进行了较为详尽的介绍。从面部特征自动定位、人脸表示模型、分类和识别算法三个角度对人脸表情识别领域的主要技术方法进行了分类整理,阐述了人脸表情识别的研究现状。简要介绍了几种主要的人脸表情库,总结了现有的主要人脸表情识别系统的情况。最后,本文讨论了人脸表情识别领域目前仍然面临的主要技术难题和开放问题。	2.研究了基于肤色与模板的人脸检测问题,提出了一种基于肤色与梯度模板的人脸检测算法。人脸检测是人脸研究中的必要研究课题,已经出现了多种经典算法。但是基于肤色的人脸检测研究时间并不长。本文在前人对肤色空间的研究成果基础上,采用了一种新的人脸匹配模板——梯度模板,试图使其包含有尽量多的人脸信息。整个算法达到了肤色空间过滤大部分非肤色区域,人脸梯度模板准确检测的效果。	3.研究了特征精确配准问题,对活动模板模型在搜索空间与搜索过程上做了一些改进。面部特征精确配准是鲁棒实用的人脸表情识别系统的基本前提。主动形状模型(ASM)是目前解决该问题的主流方法。本文详尽地分析主动形状模型(ASM)的工作原理,仔细地讨论了它的优缺点,并在此基础上,提出了三点改进:(1)针对经典ASM算法中模型空间构造的不足,在原模型空间的基础上加入了形状变化子空间,提出了最优搜索空间的概念,提高了原模型空间的模型表达能力(2)针对经典ASM算法及其以后的改进算法中没有任何对搜索结果进行评价的现实,提出了一种合理、简便、易行的评价方法,使搜索过程变得不再盲目,搜索结果更符合实际情况。(3)在第二步评价的基础上,针对ASM算法搜索过程中模型搜索和图像纹理搜索相互独立的缺点,提出了一种最优搜索算法,其中使用了反馈策略,使得两种空间的搜索结果互相约束,互相利用,搜索过程变得更加合理,智能。这些改进在一定程度上弥补了ASM算法中模型空间与搜索过程的不足,更能够比较精确地定位预定义的面部关键特征。为后续的人脸表情识别打下了良好的配准基础。	4.研究了独立分量特征(IC)人脸表情表示方法,提出了一种AdaICA人脸表情识别新方法。利用独立分量作为特征进行判别分析,不仅是特征之间相互独立,而且还能充分利用变量的高阶统计量信息,具有很强的优势。但是它具有两个方面的缺陷:第一,独立基的获取结果很随机,并不唯一。第二,独立基的判别分析性能不稳定,有的独立基可能具有很强的识别能力,有的则相对较弱。总的来说是获取与选择独立基成为两大难点。针对这个问题,本文考虑了统计性原理,多次运行ICA算法,在此基础上,将Boosting策略创新性地应用于ICA特征的优化与选择,最终得到数目较少、判别分析能力较强的AdaIC特征,并最终通过对AdaIC特征的判别分析实现人脸表情识别——即所谓的AdaICA人脸表情识别新方法。在JAFFE与自选两个人脸表情图像库上的对比实验表明AdaICA方法可以有效提取判别特征,识别精度也比传统方法有了较大提高。	5.研究了基于离散小波与离散余弦的人脸表情全局特征提取与分析方法。简单地研究了全局表情特征的提取问题,采用离散小波对图像进行压缩,利用离散余弦变换对压缩图像进行去相关、聚能运算,并将最终的对角拉直主要能量数据作为待识别特征。算法简单,实现容易。	6.研究了基于局部特征的表情分析方法,提出了一种新的局部二元模式表情识别算法。由于表情是由一些局部肌肉变形组合而来,准确的局部特征在表情识别中应该具有很强的优势。但是以下几点需要注意:第一,采用的算法能够真正地提取局部特征,真正地反映局部的拓扑结构或者是空间信息,而不是将全局特征提取算法用在图像的局部上。第二,提取的特征对局部的变化很敏感,微小的局部变化都应该被反应出来,以保证准确地提取很细微的表情特征。第三,具有一定的组合能力,因为表情是局部形变的组合。基于以上几点考虑,本文引入了在图形学中具有很强描述纹理能力的局部二元模式(Local Binary Patterns,LBP)算法,改进了其中的三点对表情识别不利的因素:(1)将原图像经过小波包分解并在其它频率图像为零的情况下重构,得到了四幅与原图像大小相等的不同频率图像,在一定程度上增加了原图像的数据,改进了原算法数据量不足的问题。(2)将图像由粗到精的方式分为好多LBP直方图块,采用级联的策略串联每个块中的LBP直方图,这种提取方式的改进使得最终的特征同时包含有局部和全局的纹理信息,使得在识别的时候性能更鲁棒。(3)通过分析LBP图像的特征,提出了一种合理的定权策略,各种特征的组合一方面符合图像内容本身的信息特征,另一方面达到了一定的自适应要求。利用改进后的算法来进行表情判别分析,实验结果表明:本文的改进确实提高了原算法鲁棒性,增加了面部表情的识别率。},
+	databaseprovider = {CNKI},
+}
+
+@Article{jiyuICAyu,
+	author = {周书仁 and 梁昔明 and 朱灿 and 杨秋芬},
+	title = {基于ICA与HMM的表情识别},
+	journal = {中国图象图形学报},
+	year = {2008},
+	authoraddress = {中南大学信息科学与工程学院;长沙理工大学计算机与通信工程学院;},
+	volume = {13},
+	issue = {12},
+	pages = {2321-2328},
+	keywords = {盲源分离;独立分量分析;表情识别;隐马尔可夫模型},
+	abstract = {独立分量分析(independent component analysis,ICA)是一种盲源分离的有效方法,为了进一步有效提取表情图像中隐藏的信息和提高表情识别率,可将它应用于人脸表情识别。由于脸部表情为人类情感、认知过程的研究提供了极为重要的测量依据,因此表情特征的提取和特征序列所代表的表情状态是表情识别过程中的重要步骤。为了更好地进行表情和情感的分类,提出了一种ICA结合隐马尔可夫模型(HMM)识别表情的情感分类系统,该系统首先利用ICA算法进行表情特征提取,为了加快特征提取的速度,这里采用了FastICA算法;然后通过7个训练好的HMM进行表情识别。实验结果显示,该系统使人脸表情识别的整体效果有了提高,取得了令人满意的效果,可以用来识别人脸表情。},
+	ISBN = {1006-8961},
+	ISSN = {1006-8961},
+	notes = {11-3758/TB},
+	databaseprovider = {CNKI},
+}
+
+@PhdThesis{renlianbiaoqingshibie1,
+	author = {周书仁},
+	title = {人脸表情识别算法分析与研究},
+	school = {中南大学},
+	year = {2009},
+	tertiaryauthor = {梁昔明},
+	typeofwork = {博士},
+	keywords = {表情识别;类间神经网络;Adaboost多分类;支持向量聚类;粒子群优化;活动外观模型;流形特征},
+	abstract = {人脸表情识别在医学和民用领域有着广阔的应用前景,是目前的一个非常活跃的研究领域。人脸面部表情蕴涵着丰富而又细腻的情感和心理信息,面部表情识别主要涉及两个方面的问题,如何有效地获取人脸面部表情特征和如何开展表情分类分析研究。	本论文主要研究内容与创新性工作包括以下五个方面:	1)全面综述了人脸表情识别研究的历史和现状,阐述了人脸表情识别的三个环节相关问题,即表情识别的特征提取、分类和识别框架。在表情特征提取环节,总结了一些常见的表情特征提取方法;描述了表情图像预处理中常用的一些方法;分析了Gabor与Adaboost方法的特征提取基本思路;论述了主动形状模型与主动外观模型进行表情特征提取的算法描述;验证了采用基于流形算法进行脸部特征提取的可实现性。在表情分类环节,讨论了传统的两分类支持向量机可用于表情多分类的解决过程;给出了表情数据可以通过聚类分析算法进行先聚类后区分的思想,以达到最终的表情分类识别;引用了自相似传播聚类的算法思想,阐述其解决寻找最优表情分类中心的一般过程。在表情识别框架环节,设计了表情识别系统的一般流程框架。	2)提出了基于Gabor特征与类间学习神经网络的表情识别算法。首先对Gabor小波特征与BP神经网络相结合的表情识别方法进行了研究与分析,并讨论了BP网络结构设计的一般模型,分析了隐层节点数选择的方案、网络常用传递函数和如何在实际问题中加以应用,同时对神经网络模型的学习过程进行了详细阐述,为类间神经网络的具体提出做好铺垫;然后提出一种类间学习神经网络表情识别算法,该算法给出了如何获取神经网络输入层所需要的特征,如采用Gabor小波变换提取人脸表情的局部特征,且只选择对表情贡献最大的特征区域,建立了类间学习神经网络的一般概念,阐述了类间学习神经网络的结构描述,并设计了类间学习神经网络的模型,分析了类间学习神经网络的训练过程,描述了表情识别实现思路;其次,针对局部Gabor特征与神经网络的表情识别方法进行了相关的实验,通过实验给出了一般表情对之间的距离判距,验证了通过类内期望输出和类间期望距离来修正网络的正确性;最后给出了一组实例样本进行表情分类识别。	3)提出了基于ICA特征与隐马尔可夫模型的表情识别算法。首先介绍了基本的ICA模型,根据表情图像的数据输入空间构造ICA模型,描述了FastICA算法步骤,分析了FastICA算法求解分离矩阵的过程,采用了滑动子窗口提取训练集特征,得到了人脸表情基向量;然后介绍了粒子群优化算法步骤,利用其在数据空间搜索最优解的优良表现,将其引入到表情特征的快速求解上,避免了求解过程中的复杂计算开销,并比较分析了优化后的ICA与基本ICA进行特征提取所具有的不同表现;其次,介绍了HMM的一般概念,给出了HMM表情识别建模的详细过程,在确定HMM模型的各个参数上进行了实验分析比较,以落实最佳的参数为识别分类所用,给出了HMM的一般训练过程和基于优化后的ICA与HMM算法的表情识别体系;最后,比较分析了相近方法的研究,得出一些影响结果变化的因素,通过实验结果验证本文所提出思路的正确性。	4)提出了基于活动外观模型特征与Adaboost的表情识别算法。首先介绍了ASM方法和AAM方法的一般概念;然后针对表情图像的标记点和轮廓线的构成给出了依据,并比较了ASM和AAM的不同,阐述了利用AAM提取人脸表情特征所具有的优势;其次,给出了Adaboost多分类算法步骤描述,为了能够将AAM获取的特征点值用于Adaboost多分类,构造了一种适合于Adaboost多分类所需要的Harr型特征,并应用此特征通过Adaboost分类器进行表情识别;最后,通过实验对训练集错误率等数据进行了分析,并针对不同方法之间的性能作出了分析比较。	5)提出了基于流形特征与支持向量聚类的表情识别算法。首先针对目前用于表情识别主要的两类流形学习算法进行了介绍,根据LPP降维算法提出了一种有效的有约束机制,并在实验中验证了这种约束能够更好地优化投影矩阵的选择;然后给出了一种LCSVC的聚类过程,有效降低了表情类别的聚类边缘的部分干扰,在SVC聚类过程,采用MFA方法调整各个SV的权重;其次,设计了一个四层神经网络表情分类器,这一设计思路是一种表情识别方法的有效途径;最后,验证了系统中一些重要环节用到的参数,分析了不同方法之间的性能比较。},
+	databaseprovider = {CNKI},
+}
+
+@Article{zhichixiangliangjianbie,
+	author = {应自炉 and 唐京海 and 李景文 and 张有为},
+	title = {支持向量鉴别分析及在人脸表情识别中的应用},
+	journal = {电子学报},
+	year = {2008},
+	authoraddress = {北京航空航天大学电子信息工程学院,北京航空航天大学电子信息工程学院,北京航空航天大学电子信息工程学院,北京航空航天大学电子信息工程学院 北京100083,五邑大学信息学院,广东江门529020,北京100083,北京100083,北京100083,五邑大学信息学院,广东江门529020},
+	issue = {04},
+	pages = {725-730},
+	keywords = {模式识别;主元分析;Fisher鉴别分析;支持向量机;表情识别},
+	abstract = {模式识别一般首先要对数据进行降维,PCA和LDA及其对应的核化算法是其中应用广泛的方法,但这些算法的应用前提是假设样本数据为高斯分布,在少样本训练时它们的推广性能有很大局限.本文提出了一种基于支持向量机的鉴别分析算法,该算法首先寻找有限样本情况下最优分类面,以其法线方向为投影轴对数据进行投影降维,在多类情况下提供了极其丰富的方案选择投影轴.该算法体现了支持向量机的内在优良推广性能,克服了PCA和LDA等算法的局限性.本文将所提算法应用于人脸表情特征提取,并与PCA、LDA、KPCA、GDA等算法进行了比较,结果表明该算法的有效性.},
+	ISBN = {0372-2112},
+	ISSN = {0372-2112},
+	notes = {11-2087/TN},
+	databaseprovider = {CNKI},
+}

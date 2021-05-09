@@ -1,0 +1,68 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 1.7 $
+% $ biber version 0.9.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber or bibtex as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \entry{ren2015faster}{article}{}
+    \name{labelname}{4}{}{%
+      {{hash=bb295293acacd54387339079ebbe4ead}{Ren}{R\bibinitperiod}{Shaoqing}{S\bibinitperiod}{}{}{}{}}%
+      {{hash=6b4b60e909e78633945f3f9c9dc83e01}{He}{H\bibinitperiod}{Kaiming}{K\bibinitperiod}{}{}{}{}}%
+      {{hash=bd5dadbe57bedc5957c19a3154c4d424}{Girshick}{G\bibinitperiod}{Ross}{R\bibinitperiod}{}{}{}{}}%
+      {{hash=f85751488058842b5777c7b4074077b5}{Sun}{S\bibinitperiod}{Jian}{J\bibinitperiod}{}{}{}{}}%
+    }
+    \name{author}{4}{}{%
+      {{hash=bb295293acacd54387339079ebbe4ead}{Ren}{R\bibinitperiod}{Shaoqing}{S\bibinitperiod}{}{}{}{}}%
+      {{hash=6b4b60e909e78633945f3f9c9dc83e01}{He}{H\bibinitperiod}{Kaiming}{K\bibinitperiod}{}{}{}{}}%
+      {{hash=bd5dadbe57bedc5957c19a3154c4d424}{Girshick}{G\bibinitperiod}{Ross}{R\bibinitperiod}{}{}{}{}}%
+      {{hash=f85751488058842b5777c7b4074077b5}{Sun}{S\bibinitperiod}{Jian}{J\bibinitperiod}{}{}{}{}}%
+    }
+    \strng{namehash}{008a132af3e2d4ff15eb01a8fb4b005c}
+    \strng{fullhash}{008a132af3e2d4ff15eb01a8fb4b005c}
+    \field{sortinit}{R}
+    \field{journaltitle}{arXiv preprint arXiv:1506.01497}
+    \field{title}{Faster r-cnn: Towards real-time object detection with region proposal networks}
+    \field{year}{2015}
+  \endentry
+
+  \entry{123a}{thesis}{}
+    \name{labelname}{1}{}{%
+      {{hash=93a840ba1308b82c5e3821aaac5008dd}{郭茗涵}{郭\bibinitperiod}{}{}{}{}{}{}}%
+    }
+    \name{author}{1}{}{%
+      {{hash=93a840ba1308b82c5e3821aaac5008dd}{郭茗涵}{郭\bibinitperiod}{}{}{}{}{}{}}%
+    }
+    \list{institution}{1}{%
+      {吉林大学}%
+    }
+    \strng{namehash}{93a840ba1308b82c5e3821aaac5008dd}
+    \strng{fullhash}{93a840ba1308b82c5e3821aaac5008dd}
+    \field{sortinit}{郭}
+    \field{title}{基于深度学习的声纹识别算法研究}
+    \field{type}{mathesis}
+    \field{year}{2020}
+  \endentry
+
+  \missing{WI64}
+  \missing{G03}
+  \missing{M91}
+  \missing{JS03}
+  \missing{D01}
+\endrefsection
+\endinput
+

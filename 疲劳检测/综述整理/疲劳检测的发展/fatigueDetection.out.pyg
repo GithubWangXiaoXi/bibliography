@@ -1,0 +1,7 @@
+\begin{Verbatim}[commandchars=\\\{\}, ]
+	\PY{n}{employees} \PY{o}{=} \PY{p}{[]}
+	\PY{k}{for} \PY{n+nb}{id} \PY{o+ow}{in} \PY{n}{employee\PYZus{}ids}\PY{p}{:}
+	    \PY{n}{employee} \PY{o}{=} \PY{n}{fetch\PYZus{}employee}\PY{p}{(}\PY{n+nb}{id}\PY{p}{)}
+	\PY{k}{if} \PY{n}{employee}\PY{p}{:}
+	    \PY{n}{employees}\PY{o}{.}\PY{n}{append}\PY{p}{(}\PY{n}{employee}\PY{p}{)}
+\end{Verbatim}

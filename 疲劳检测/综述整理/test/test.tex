@@ -1,0 +1,40 @@
+﻿\documentclass[]{book}  
+\usepackage[UTF8]{ctex}  %如果不添加不能正常显示中文
+\usepackage{algorithmic}
+\usepackage{algorithm}
+\floatname{algorithm}{算法}
+\renewcommand{\algorithmicrequire}{\textbf{输入:}}
+\renewcommand{\algorithmicensure}{\textbf{输出:}} 
+%\renewcommand{\algorithmicensure}{\textbf{Output:}}
+%\renewcommand{\algorithmicrequire}{\textbf{Input:}}
+
+\begin{document}
+\begin{algorithm}[]
+\caption{ Algorithm Algorithm Algorithm Algorithm}
+\label{alg:Framwork}
+\begin{algorithmic}[] %这个1 表示每一行都显示数字
+\REQUIRE ~~\\ %算法的输入参数：Input
+Secret bit stream: B={0100……}\\
+Embedding rate: m bit\\
+
+\ENSURE ~~\\ %算法的输出：Output
+Multiple sentences: Text;
+\IF {not the end of current sentence}
+\STATE Calculate the probability distribution of the next word ;
+\STATE \STATE Calculate the perplexity of the words generated with the word of CP;
+\IF {$ppl_j$ less than ppl}
+\STATE Select the word to form the CP\_new;
+\IF {CP\_new is empty}
+\STATE Selected the word which has the highest conditional probability in the CP;
+\ELSE
+\STATE Construct a Huffman tree according to the probability distribution of each word in the CP\_new and encode the word;
+\ENDIF
+\ENDIF
+\ELSE
+\STATE Random pick a word from start word list start the other sentence;
+\ENDIF
+\RETURN generated sentences; %算法的返回值
+\end{algorithmic}
+\end{algorithm}
+\end{document}
+

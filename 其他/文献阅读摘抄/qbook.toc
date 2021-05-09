@@ -1,0 +1,37 @@
+\let \CTEX@spaceChar \relax 
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\contentsline {chapter}{前\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 言}{i}{chapter*.1}
+\contentsline {chapter}{概\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 览}{v}{chapter*.3}
+\contentsline {chapter}{\numberline {第一章\hspace {0.3em}}多任务联合学习}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics}{1}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}问题提出}{1}{subsection.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1.1}多任务学习介绍}{1}{subsubsection.1.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1.2}本文创新点}{1}{subsubsection.1.1.1.2}
+\contentsline {subsection}{\numberline {1.1.2}解决方案}{3}{subsection.1.1.2}
+\contentsline {subsubsection}{\numberline {1.1.2.1}多任务似然}{3}{subsubsection.1.1.2.1}
+\contentsline {subsubsection}{\numberline {1.1.2.2}回归任务}{3}{subsubsection.1.1.2.2}
+\contentsline {subsubsection}{\numberline {1.1.2.3}分类任务}{4}{subsubsection.1.1.2.3}
+\contentsline {subsubsection}{\numberline {1.1.2.4}回归和分类任务}{4}{subsubsection.1.1.2.4}
+\contentsline {subsection}{\numberline {1.1.3}实验结果}{5}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}参考代码}{5}{subsection.1.1.4}
+\contentsline {subsection}{\numberline {1.1.5}小总结}{7}{subsection.1.1.5}
+\contentsline {subsection}{\numberline {1.1.6}补充知识}{8}{subsection.1.1.6}
+\contentsline {subsubsection}{\numberline {1.1.6.1}同方差不确定性}{8}{subsubsection.1.1.6.1}
+\contentsline {subsubsection}{\numberline {1.1.6.2}频率派和贝叶斯派}{9}{subsubsection.1.1.6.2}
+\contentsline {chapter}{\numberline {第二章\hspace {0.3em}}开放数据集的学习}{13}{chapter.2}
+\contentsline {section}{\numberline {2.1}Towards Open World Object Detection}{13}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}问题的提出}{13}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}解决方案}{14}{subsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.2.1}对比聚类(Contrastive Clustering)}{15}{subsubsection.2.1.2.1}
+\contentsline {subsubsection}{\numberline {2.1.2.2}RPN进行unknown类别标注}{16}{subsubsection.2.1.2.2}
+\contentsline {subsubsection}{\numberline {2.1.2.3}基于未知识别的能量检测(Energy Based Unknown Identifier)}{16}{subsubsection.2.1.2.3}
+\contentsline {subsubsection}{\numberline {2.1.2.4}失忆性消除(Alleviating Forgetting)}{17}{subsubsection.2.1.2.4}
+\contentsline {subsubsection}{\numberline {2.1.2.5}细节问题：一些超参数的设置}{18}{subsubsection.2.1.2.5}
+\contentsline {subsection}{\numberline {2.1.3}实验结果}{19}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}小总结}{20}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}补充知识}{23}{subsection.2.1.5}
+\contentsline {subsubsection}{\numberline {2.1.5.1}真实世界中的开集识别问题}{23}{subsubsection.2.1.5.1}
+\contentsline {subsubsection}{\numberline {2.1.5.2}基于能量的模型（EBMs）和自由能公式}{25}{subsubsection.2.1.5.2}
+\contentsline {subsubsection}{\numberline {2.1.5.3}小样本学习（few-shot learning）}{27}{subsubsection.2.1.5.3}
+\contentsline {subsubsection}{\numberline {2.1.5.4}增量学习}{28}{subsubsection.2.1.5.4}
+\contentsline {chapter}{参考文献}{29}{chapter*.27}

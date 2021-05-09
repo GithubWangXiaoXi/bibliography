@@ -1,0 +1,29 @@
+\let \CTEX@spaceChar \relax 
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\contentsline {chapter}{前\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 言}{i}{chapter*.1}
+\contentsline {chapter}{概\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 览}{v}{chapter*.3}
+\contentsline {chapter}{\numberline {第一章\hspace {0.3em}}这是什么？}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}文档说明}{1}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}准备工作}{1}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}字体与选项}{1}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}编译方式}{2}{subsection.1.1.3}
+\contentsline {section}{\numberline {1.2}模板文件介绍}{2}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}格式控制文件}{2}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}主文件}{2}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}各部分源文件}{2}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}图片存放}{3}{subsection.1.2.4}
+\contentsline {subsection}{\numberline {1.2.5}参考文献数据库}{3}{subsection.1.2.5}
+\contentsline {chapter}{\numberline {第二章\hspace {0.3em}}写作示例}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}列表环境}{5}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}无序列表}{5}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}有序列表}{5}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}描述列表}{5}{subsection.2.1.3}
+\contentsline {section}{\numberline {2.2}数学排版}{6}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}公式排版}{6}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}SI单位}{6}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}定理环境}{6}{subsection.2.2.3}
+\contentsline {section}{\numberline {2.3}表格}{7}{section.2.3}
+\contentsline {section}{\numberline {2.4}插入图片}{7}{section.2.4}
+\contentsline {section}{\numberline {2.5}插入代码}{9}{section.2.5}
+\contentsline {section}{\numberline {2.6}参考文献管理}{10}{section.2.6}
+\contentsline {chapter}{参考文献}{11}{chapter*.9}

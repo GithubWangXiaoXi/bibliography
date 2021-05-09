@@ -1,0 +1,756 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 1.7 $
+% $ biber version 0.9.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber or bibtex as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \entry{Fuxiaofen0}{thesis}{}
+    \name{labelname}{1}{}{%
+      {{hash=0d1b08c34858921bc7c662b228acb7ba}{???}{?\bibinitperiod}{}{}{}{}{}{}}%
+    }
+    \name{author}{1}{}{%
+      {{hash=0d1b08c34858921bc7c662b228acb7ba}{???}{?\bibinitperiod}{}{}{}{}{}{}}%
+    }
+    \list{institution}{1}{%
+      {?????????? ????}%
+    }
+    \strng{namehash}{0d1b08c34858921bc7c662b228acb7ba}
+    \strng{fullhash}{0d1b08c34858921bc7c662b228acb7ba}
+    \field{sortinit}{0}
+    \field{title}{??????????????????}
+    \field{type}{phdthesis}
+  \endentry
+
+  \entry{XuWenhui2009}{article}{}
+    \name{labelname}{2}{}{%
+      {{hash=eae0b3b43fc5b404fa454a4a36ab0d1b}{������}{�\bibinitperiod}{}{}{}{}{}{}}%
+      {{hash=eae0b3b43fc5b404fa454a4a36ab0d1b}{������}{�\bibinitperiod}{}{}{}{}{}{}}%
+    }
+    \name{author}{2}{}{%
+      {{hash=eae0b3b43fc5b404fa454a4a36ab0d1b}{������}{�\bibinitperiod}{}{}{}{}{}{}}%
+      {{hash=eae0b3b43fc5b404fa454a4a36ab0d1b}{������}{�\bibinitperiod}{}{}{}{}{}{}}%
+    }
+    \strng{namehash}{db8c5b224b7717f0c823e458bf1ef5c8}
+    \strng{fullhash}{db8c5b224b7717f0c823e458bf1ef5c8}
+    \field{sortinit}{Ƶ}
+    \field{journaltitle}{����������������ͼ��ѧѧ��}
+    \field{number}{004}
+    \field{title}{������Ƶ���б���������LSVM�㷨}
+    \field{volume}{21}
+    \field{year}{2009}
+    \field{pages}{542\bibrangedash 548, 553}
+  \endentry
+
+  \entry{jiyuICAyu}{article}{}
+    \name{labelname}{4}{}{%
+      {{hash=eae0b3b43fc5b404fa454a4a36ab0d1b}{������}{�\bibinitperiod}{}{}{}{}{}{}}%
+      {{hash=eae0b3b43fc5b404fa454a4a36ab0d1b}{������}{�\bibinitperiod}{}{}{}{}{}{}}%
+      {{hash=4906fc8bbfeecb5625100a7b6edf9f7a}{����}{�\bibinitperiod}{}{}{}{}{}{}}%
+      {{hash=eae0b3b43fc5b404fa454a4a36ab0d1b}{������}{�\bibinitperiod}{}{}{}{}{}{}}%
+    }
+    \name{author}{4}{}{%
+      {{hash=eae0b3b43fc5b404fa454a4a36ab0d1b}{������}{�\bibinitperiod}{}{}{}{}{}{}}%
+      {{hash=eae0b3b43fc5b404fa454a4a36ab0d1b}{������}{�\bibinitperiod}{}{}{}{}{}{}}%
+      {{hash=4906fc8bbfeecb5625100a7b6edf9f7a}{����}{�\bibinitperiod}{}{}{}{}{}{}}%
+      {{hash=eae0b3b43fc5b404fa454a4a36ab0d1b}{������}{�\bibinitperiod}{}{}{}{}{}{}}%
+    }
+    \strng{namehash}{f42ec44f70270f1770353936dd5ebeeb}
+    \strng{fullhash}{f42ec44f70270f1770353936dd5ebeeb}
+    \field{sortinit}{I}
+    \field{abstract}{������������(independent component analysis,ICA)��һ��äԴ��������Ч����,Ϊ�˽�һ����Ч��ȡ����ͼ�������ص���Ϣ�����߱���ʶ����,�ɽ���Ӧ������������ʶ����������������Ϊ�������С���֪���̵��о��ṩ�˼�Ϊ��Ҫ�Ĳ�������,���˱�����������ȡ�����������������ı���״̬�Ǳ���ʶ�������е���Ҫ���衣Ϊ�˸��õؽ��б��������еķ���,������һ��ICA�����������ɷ�ģ��(HMM)ʶ�����������з���ϵͳ,��ϵͳ��������ICA�㷨���б���������ȡ,Ϊ�˼ӿ�������ȡ���ٶ�,����������FastICA�㷨;Ȼ��ͨ��7��ѵ���õ�HMM���б���ʶ����ʵ��������ʾ,��ϵͳʹ��������ʶ��������Ч����������,ȡ��������������Ч��,��������ʶ���������顣}
+    \field{isbn}{1006-8961}
+    \field{issn}{1006-8961}
+    \field{issue}{12}
+    \field{journaltitle}{�й�ͼ��ͼ��ѧ��}
+    \field{title}{����ICA��HMM�ı���ʶ��}
+    \field{volume}{13}
+    \field{year}{2008}
+    \field{pages}{2321\bibrangedash 2328}
+    \keyw{äԴ����;������������;����ʶ��;�������ɷ�ģ��}
+  \endentry
+
+  \entry{cohen2003facial}{article}{}
+    \name{labelname}{5}{}{%
+      {{hash=00db26127db6ebda9f3ee77db454386b}{Cohen}{C\bibinitperiod}{Ira}{I\bibinitperiod}{}{}{}{}}%
+      {{hash=da5596827b4ee2721d6b0cc1010c9fa4}{Sebe}{S\bibinitperiod}{Nicu}{N\bibinitperiod}{}{}{}{}}%
+      {{hash=01cc8309611b73c6038f97f1b0508bef}{Garg}{G\bibinitperiod}{Ashutosh}{A\bibinitperiod}{}{}{}{}}%
+      {{hash=5692138af2100a4e444c5271c5c7fe46}{Chen}{C\bibinitperiod}{Lawrence\bibnamedelima S}{L\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      {{hash=f80eec08255c038ba027f3201d60cc71}{Huang}{H\bibinitperiod}{Thomas\bibnamedelima S}{T\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+    }
+    \name{author}{5}{}{%
+      {{hash=00db26127db6ebda9f3ee77db454386b}{Cohen}{C\bibinitperiod}{Ira}{I\bibinitperiod}{}{}{}{}}%
+      {{hash=da5596827b4ee2721d6b0cc1010c9fa4}{Sebe}{S\bibinitperiod}{Nicu}{N\bibinitperiod}{}{}{}{}}%
+      {{hash=01cc8309611b73c6038f97f1b0508bef}{Garg}{G\bibinitperiod}{Ashutosh}{A\bibinitperiod}{}{}{}{}}%
+      {{hash=5692138af2100a4e444c5271c5c7fe46}{Chen}{C\bibinitperiod}{Lawrence\bibnamedelima S}{L\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      {{hash=f80eec08255c038ba027f3201d60cc71}{Huang}{H\bibinitperiod}{Thomas\bibnamedelima S}{T\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{b6b015a2b67c1cdc639d8164df96d91c}
+    \strng{fullhash}{aaaf7c889241208ecd6fc50996f23f1b}
+    \field{sortinit}{C}
+    \field{journaltitle}{Computer Vision and image understanding}
+    \field{number}{1-2}
+    \field{title}{Facial expression recognition from video sequences: temporal and static modeling}
+    \field{volume}{91}
+    \field{year}{2003}
+    \field{pages}{160\bibrangedash 187}
+  \endentry
+
+  \entry{de2014improved}{article}{}
+    \name{labelname}{2}{}{%
+      {{hash=dc3789c3de01b9563f906e4a295a82ad}{De\bibnamedelima Haan}{D\bibinitperiod\bibinitdelim H\bibinitperiod}{Gerard}{G\bibinitperiod}{}{}{}{}}%
+      {{hash=d0e6fc2f330088ea2c15a0076288b6e9}{Van\bibnamedelima Leest}{V\bibinitperiod\bibinitdelim L\bibinitperiod}{Arno}{A\bibinitperiod}{}{}{}{}}%
+    }
+    \name{author}{2}{}{%
+      {{hash=dc3789c3de01b9563f906e4a295a82ad}{De\bibnamedelima Haan}{D\bibinitperiod\bibinitdelim H\bibinitperiod}{Gerard}{G\bibinitperiod}{}{}{}{}}%
+      {{hash=d0e6fc2f330088ea2c15a0076288b6e9}{Van\bibnamedelima Leest}{V\bibinitperiod\bibinitdelim L\bibinitperiod}{Arno}{A\bibinitperiod}{}{}{}{}}%
+    }
+    \list{publisher}{1}{%
+      {IOP Publishing}%
+    }
+    \strng{namehash}{ce30f171d64635be3811aa84987fd7d2}
+    \strng{fullhash}{ce30f171d64635be3811aa84987fd7d2}
+    \field{sortinit}{D}
+    \field{journaltitle}{Physiological measurement}
+    \field{number}{9}
+    \field{title}{Improved motion robustness of remote-PPG by using the blood volume pulse signature}
+    \field{volume}{35}
+    \field{year}{2014}
+    \field{pages}{1913}
+  \endentry
+
+  \entry{6523142}{article}{}
+    \name{labelname}{2}{}{%
+      {{hash=6f4d97800f6b1d68e510a1ce733a4e02}{{de\bibnamedelimb Haan}}{d\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      {{hash=4f3626191426fbbd0bfe67f051b15c26}{{Jeanne}}{J\bibinitperiod}{V.}{V\bibinitperiod}{}{}{}{}}%
+    }
+    \name{author}{2}{}{%
+      {{hash=6f4d97800f6b1d68e510a1ce733a4e02}{{de\bibnamedelimb Haan}}{d\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      {{hash=4f3626191426fbbd0bfe67f051b15c26}{{Jeanne}}{J\bibinitperiod}{V.}{V\bibinitperiod}{}{}{}{}}%
+    }
+    \strng{namehash}{059c76f5f2d98d13a2a8c0e42c9f6ac1}
+    \strng{fullhash}{059c76f5f2d98d13a2a8c0e42c9f6ac1}
+    \field{sortinit}{d}
+    \field{journaltitle}{IEEE Transactions on Biomedical Engineering}
+    \field{number}{10}
+    \field{title}{Robust Pulse Rate From Chrominance-Based rPPG}
+    \field{volume}{60}
+    \field{year}{2013}
+    \field{pages}{2878\bibrangedash 2886}
+    \verb{doi}
+    \verb 10.1109/TBME.2013.2266196
+    \endverb
+  \endentry
+
+  \entry{fabian2016emotionet}{inproceedings}{}
+    \name{labelname}{3}{}{%
+      {{hash=e5cc18c1133780bfca480b044c198af2}{Fabian\bibnamedelima Benitez-Quiroz}{F\bibinitperiod\bibinitdelim B\bibinithyphendelim Q\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+      {{hash=d3a1664d88fb1d2d29e9aa4c7cfe4205}{Srinivasan}{S\bibinitperiod}{Ramprakash}{R\bibinitperiod}{}{}{}{}}%
+      {{hash=336fd62fac6760d03830d631a419ac83}{Martinez}{M\bibinitperiod}{Aleix\bibnamedelima M}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+    }
+    \name{author}{3}{}{%
+      {{hash=e5cc18c1133780bfca480b044c198af2}{Fabian\bibnamedelima Benitez-Quiroz}{F\bibinitperiod\bibinitdelim B\bibinithyphendelim Q\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+      {{hash=d3a1664d88fb1d2d29e9aa4c7cfe4205}{Srinivasan}{S\bibinitperiod}{Ramprakash}{R\bibinitperiod}{}{}{}{}}%
+      {{hash=336fd62fac6760d03830d631a419ac83}{Martinez}{M\bibinitperiod}{Aleix\bibnamedelima M}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+    }
+    \strng{namehash}{b3fda38d70a798439e9832f9900e7374}
+    \strng{fullhash}{b3fda38d70a798439e9832f9900e7374}
+    \field{sortinit}{F}
+    \field{booktitle}{Proceedings of the IEEE conference on computer vision and pattern recognition}
+    \field{title}{Emotionet: An accurate, real-time algorithm for the automatic annotation of a million facial expressions in the wild}
+    \field{year}{2016}
+    \field{pages}{5562\bibrangedash 5570}
+  \endentry
+
+  \entry{fabian2017recognition}{inproceedings}{}
+    \name{labelname}{3}{}{%
+      {{hash=e5cc18c1133780bfca480b044c198af2}{Fabian\bibnamedelima Benitez-Quiroz}{F\bibinitperiod\bibinitdelim B\bibinithyphendelim Q\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+      {{hash=5c786d9afb3cf178271120f1fd926d21}{Wang}{W\bibinitperiod}{Yan}{Y\bibinitperiod}{}{}{}{}}%
+      {{hash=336fd62fac6760d03830d631a419ac83}{Martinez}{M\bibinitperiod}{Aleix\bibnamedelima M}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+    }
+    \name{author}{3}{}{%
+      {{hash=e5cc18c1133780bfca480b044c198af2}{Fabian\bibnamedelima Benitez-Quiroz}{F\bibinitperiod\bibinitdelim B\bibinithyphendelim Q\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+      {{hash=5c786d9afb3cf178271120f1fd926d21}{Wang}{W\bibinitperiod}{Yan}{Y\bibinitperiod}{}{}{}{}}%
+      {{hash=336fd62fac6760d03830d631a419ac83}{Martinez}{M\bibinitperiod}{Aleix\bibnamedelima M}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+    }
+    \strng{namehash}{072caf48aebea5cdc03494778984e21b}
+    \strng{fullhash}{072caf48aebea5cdc03494778984e21b}
+    \field{sortinit}{F}
+    \field{booktitle}{Proceedings of the IEEE International Conference on Computer Vision}
+    \field{title}{Recognition of Action Units in the Wild With Deep Nets and a New Global-Local Loss}
+    \field{year}{2017}
+    \field{pages}{3970\bibrangedash 3979}
+  \endentry
+
+  \entry{kotsia2006facial}{article}{}
+    \name{labelname}{2}{}{%
+      {{hash=77919a913a57cee542eae85d6b4b3a96}{Kotsia}{K\bibinitperiod}{Irene}{I\bibinitperiod}{}{}{}{}}%
+      {{hash=c0a2a1c60a7c0db868778a21931c190b}{Pitas}{P\bibinitperiod}{Ioannis}{I\bibinitperiod}{}{}{}{}}%
+    }
+    \name{author}{2}{}{%
+      {{hash=77919a913a57cee542eae85d6b4b3a96}{Kotsia}{K\bibinitperiod}{Irene}{I\bibinitperiod}{}{}{}{}}%
+      {{hash=c0a2a1c60a7c0db868778a21931c190b}{Pitas}{P\bibinitperiod}{Ioannis}{I\bibinitperiod}{}{}{}{}}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{7c27415939eb7b4d5771f209e557f8f6}
+    \strng{fullhash}{7c27415939eb7b4d5771f209e557f8f6}
+    \field{sortinit}{K}
+    \field{journaltitle}{IEEE transactions on image processing}
+    \field{number}{1}
+    \field{title}{Facial expression recognition in image sequences using geometric deformation features and support vector machines}
+    \field{volume}{16}
+    \field{year}{2006}
+    \field{pages}{172\bibrangedash 187}
+  \endentry
+
+  \entry{kyperountas2010salient}{article}{}
+    \name{labelname}{3}{}{%
+      {{hash=7f25d1118fec332f0f51b1fd087883d1}{Kyperountas}{K\bibinitperiod}{Marios}{M\bibinitperiod}{}{}{}{}}%
+      {{hash=c03f13c68f9597b35879c9518058db66}{Tefas}{T\bibinitperiod}{Anastasios}{A\bibinitperiod}{}{}{}{}}%
+      {{hash=c0a2a1c60a7c0db868778a21931c190b}{Pitas}{P\bibinitperiod}{Ioannis}{I\bibinitperiod}{}{}{}{}}%
+    }
+    \name{author}{3}{}{%
+      {{hash=7f25d1118fec332f0f51b1fd087883d1}{Kyperountas}{K\bibinitperiod}{Marios}{M\bibinitperiod}{}{}{}{}}%
+      {{hash=c03f13c68f9597b35879c9518058db66}{Tefas}{T\bibinitperiod}{Anastasios}{A\bibinitperiod}{}{}{}{}}%
+      {{hash=c0a2a1c60a7c0db868778a21931c190b}{Pitas}{P\bibinitperiod}{Ioannis}{I\bibinitperiod}{}{}{}{}}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{b6e1cd4d02b7671d15b43c93b4388026}
+    \strng{fullhash}{b6e1cd4d02b7671d15b43c93b4388026}
+    \field{sortinit}{K}
+    \field{journaltitle}{Pattern Recognition}
+    \field{number}{3}
+    \field{title}{Salient feature and reliable classifier selection for facial expression classification}
+    \field{volume}{43}
+    \field{year}{2010}
+    \field{pages}{972\bibrangedash 986}
+  \endentry
+
+  \entry{liu2018self}{article}{}
+    \name{labelname}{4}{}{%
+      {{hash=0059988812c77c492b65e20fcc47a9c4}{Liu}{L\bibinitperiod}{Xuenan}{X\bibinitperiod}{}{}{}{}}%
+      {{hash=d9e9cc64287c82dd6a236e7ff3728cfb}{Yang}{Y\bibinitperiod}{Xuezhi}{X\bibinitperiod}{}{}{}{}}%
+      {{hash=916bfba39df5c8340484b21f9cc9aa6e}{Jin}{J\bibinitperiod}{Jing}{J\bibinitperiod}{}{}{}{}}%
+      {{hash=de7219a3b1d3b76225e2a4550d160d0c}{Li}{L\bibinitperiod}{Jiangshan}{J\bibinitperiod}{}{}{}{}}%
+    }
+    \name{author}{4}{}{%
+      {{hash=0059988812c77c492b65e20fcc47a9c4}{Liu}{L\bibinitperiod}{Xuenan}{X\bibinitperiod}{}{}{}{}}%
+      {{hash=d9e9cc64287c82dd6a236e7ff3728cfb}{Yang}{Y\bibinitperiod}{Xuezhi}{X\bibinitperiod}{}{}{}{}}%
+      {{hash=916bfba39df5c8340484b21f9cc9aa6e}{Jin}{J\bibinitperiod}{Jing}{J\bibinitperiod}{}{}{}{}}%
+      {{hash=de7219a3b1d3b76225e2a4550d160d0c}{Li}{L\bibinitperiod}{Jiangshan}{J\bibinitperiod}{}{}{}{}}%
+    }
+    \list{publisher}{1}{%
+      {IOP Publishing}%
+    }
+    \strng{namehash}{8b24644b3a06fa10941dea80d658ae97}
+    \strng{fullhash}{8b24644b3a06fa10941dea80d658ae97}
+    \field{sortinit}{L}
+    \field{journaltitle}{Physiological measurement}
+    \field{number}{6}
+    \field{title}{Self-adaptive signal separation for non-contact heart rate estimation from facial video in realistic environments}
+    \field{volume}{39}
+    \field{year}{2018}
+    \field{pages}{06NT01}
+  \endentry
+
+  \entry{ma2001facial}{inproceedings}{}
+    \name{labelname}{2}{}{%
+      {{hash=7a4d66b2dc4e604269c6e06b9daf6540}{Ma}{M\bibinitperiod}{Liying}{L\bibinitperiod}{}{}{}{}}%
+      {{hash=4a53c26c82e413c669c2cbc73a1d0d68}{Khorasani}{K\bibinitperiod}{Khashayar}{K\bibinitperiod}{}{}{}{}}%
+    }
+    \name{author}{2}{}{%
+      {{hash=7a4d66b2dc4e604269c6e06b9daf6540}{Ma}{M\bibinitperiod}{Liying}{L\bibinitperiod}{}{}{}{}}%
+      {{hash=4a53c26c82e413c669c2cbc73a1d0d68}{Khorasani}{K\bibinitperiod}{Khashayar}{K\bibinitperiod}{}{}{}{}}%
+    }
+    \list{organization}{2}{%
+      {International Society for Optics}%
+      {Photonics}%
+    }
+    \strng{namehash}{4a7f1b3d44331cde9d4dab656dc5d092}
+    \strng{fullhash}{4a7f1b3d44331cde9d4dab656dc5d092}
+    \field{sortinit}{M}
+    \field{booktitle}{Signal Processing, Sensor Fusion, and Target Recognition X}
+    \field{title}{Facial expression recognition using constructive neural networks}
+    \field{volume}{4380}
+    \field{year}{2001}
+    \field{pages}{521\bibrangedash 530}
+  \endentry
+
+  \entry{malov2019fatigue}{inproceedings}{}
+    \name{labelname}{2}{}{%
+      {{hash=28a1ef8fb9e4a10a28611873787b6bf7}{Malov}{M\bibinitperiod}{Dmitrii}{D\bibinitperiod}{}{}{}{}}%
+      {{hash=3e6525e67b9d5567e873f9a2ebf67016}{Shumskaya}{S\bibinitperiod}{Olga}{O\bibinitperiod}{}{}{}{}}%
+    }
+    \name{author}{2}{}{%
+      {{hash=28a1ef8fb9e4a10a28611873787b6bf7}{Malov}{M\bibinitperiod}{Dmitrii}{D\bibinitperiod}{}{}{}{}}%
+      {{hash=3e6525e67b9d5567e873f9a2ebf67016}{Shumskaya}{S\bibinitperiod}{Olga}{O\bibinitperiod}{}{}{}{}}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{bc3918713e80670e831abd5c1db34437}
+    \strng{fullhash}{bc3918713e80670e831abd5c1db34437}
+    \field{sortinit}{M}
+    \field{booktitle}{2019 1st International Conference on Control Systems, Mathematical Modelling, Automation and Energy Efficiency (SUMMA)}
+    \field{title}{Fatigue Recognition based on Audiovisual Content}
+    \field{year}{2019}
+    \field{pages}{556\bibrangedash 559}
+  \endentry
+
+  \entry{monkaresi2013machine}{article}{}
+    \name{labelname}{3}{}{%
+      {{hash=b72ac66e33f4db6891e99a0597877e7e}{Monkaresi}{M\bibinitperiod}{Hamed}{H\bibinitperiod}{}{}{}{}}%
+      {{hash=e395ce00b4dc195cc446559fd9c85f17}{Calvo}{C\bibinitperiod}{Rafael\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      {{hash=b45566a2339fba4e23a5eb3815d55fdb}{Yan}{Y\bibinitperiod}{Hong}{H\bibinitperiod}{}{}{}{}}%
+    }
+    \name{author}{3}{}{%
+      {{hash=b72ac66e33f4db6891e99a0597877e7e}{Monkaresi}{M\bibinitperiod}{Hamed}{H\bibinitperiod}{}{}{}{}}%
+      {{hash=e395ce00b4dc195cc446559fd9c85f17}{Calvo}{C\bibinitperiod}{Rafael\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      {{hash=b45566a2339fba4e23a5eb3815d55fdb}{Yan}{Y\bibinitperiod}{Hong}{H\bibinitperiod}{}{}{}{}}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{cdf15bd4ea72acb01ec88ce50799d44e}
+    \strng{fullhash}{cdf15bd4ea72acb01ec88ce50799d44e}
+    \field{sortinit}{M}
+    \field{journaltitle}{IEEE journal of biomedical and health informatics}
+    \field{number}{4}
+    \field{title}{A machine learning approach to improve contactless heart rate monitoring using a webcam}
+    \field{volume}{18}
+    \field{year}{2013}
+    \field{pages}{1153\bibrangedash 1160}
+  \endentry
+
+  \entry{osman2015supervised}{inproceedings}{}
+    \name{labelname}{3}{}{%
+      {{hash=ed287290885df879c798d3f635b74972}{Osman}{O\bibinitperiod}{Ahmed}{A\bibinitperiod}{}{}{}{}}%
+      {{hash=c1bac69224ffe16d90710298fc076998}{Turcot}{T\bibinitperiod}{Jay}{J\bibinitperiod}{}{}{}{}}%
+      {{hash=5f29d4000ced8dfc7aa62baf3da6da16}{El\bibnamedelima Kaliouby}{E\bibinitperiod\bibinitdelim K\bibinitperiod}{Rana}{R\bibinitperiod}{}{}{}{}}%
+    }
+    \name{author}{3}{}{%
+      {{hash=ed287290885df879c798d3f635b74972}{Osman}{O\bibinitperiod}{Ahmed}{A\bibinitperiod}{}{}{}{}}%
+      {{hash=c1bac69224ffe16d90710298fc076998}{Turcot}{T\bibinitperiod}{Jay}{J\bibinitperiod}{}{}{}{}}%
+      {{hash=5f29d4000ced8dfc7aa62baf3da6da16}{El\bibnamedelima Kaliouby}{E\bibinitperiod\bibinitdelim K\bibinitperiod}{Rana}{R\bibinitperiod}{}{}{}{}}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{1d8752050cf7c4b9ed893f03fb93a191}
+    \strng{fullhash}{1d8752050cf7c4b9ed893f03fb93a191}
+    \field{sortinit}{O}
+    \field{booktitle}{2015 11th IEEE International Conference and Workshops on Automatic Face and Gesture Recognition (FG)}
+    \field{title}{Supervised learning approach to remote heart rate estimation from facial videos}
+    \field{volume}{1}
+    \field{year}{2015}
+    \field{pages}{1\bibrangedash 6}
+  \endentry
+
+  \entry{poh2010advancements}{article}{}
+    \name{labelname}{3}{}{%
+      {{hash=800b3c3ed0ab310cd62cb571e6eeeb13}{Poh}{P\bibinitperiod}{Ming-Zher}{M\bibinithyphendelim Z\bibinitperiod}{}{}{}{}}%
+      {{hash=258f8dc25d025d2bfa47c1bf52b69878}{McDuff}{M\bibinitperiod}{Daniel\bibnamedelima J}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      {{hash=5141fb03c6e29afdfebaa5277dd038bd}{Picard}{P\bibinitperiod}{Rosalind\bibnamedelima W}{R\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+    }
+    \name{author}{3}{}{%
+      {{hash=800b3c3ed0ab310cd62cb571e6eeeb13}{Poh}{P\bibinitperiod}{Ming-Zher}{M\bibinithyphendelim Z\bibinitperiod}{}{}{}{}}%
+      {{hash=258f8dc25d025d2bfa47c1bf52b69878}{McDuff}{M\bibinitperiod}{Daniel\bibnamedelima J}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      {{hash=5141fb03c6e29afdfebaa5277dd038bd}{Picard}{P\bibinitperiod}{Rosalind\bibnamedelima W}{R\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{e5cd5d691d12ecdd373dac66ef3e337e}
+    \strng{fullhash}{e5cd5d691d12ecdd373dac66ef3e337e}
+    \field{sortinit}{P}
+    \field{journaltitle}{IEEE transactions on biomedical engineering}
+    \field{number}{1}
+    \field{title}{Advancements in noncontact, multiparameter physiological measurements using a webcam}
+    \field{volume}{58}
+    \field{year}{2010}
+    \field{pages}{7\bibrangedash 11}
+  \endentry
+
+  \entry{poh2010non}{article}{}
+    \name{labelname}{3}{}{%
+      {{hash=800b3c3ed0ab310cd62cb571e6eeeb13}{Poh}{P\bibinitperiod}{Ming-Zher}{M\bibinithyphendelim Z\bibinitperiod}{}{}{}{}}%
+      {{hash=258f8dc25d025d2bfa47c1bf52b69878}{McDuff}{M\bibinitperiod}{Daniel\bibnamedelima J}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      {{hash=5141fb03c6e29afdfebaa5277dd038bd}{Picard}{P\bibinitperiod}{Rosalind\bibnamedelima W}{R\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+    }
+    \name{author}{3}{}{%
+      {{hash=800b3c3ed0ab310cd62cb571e6eeeb13}{Poh}{P\bibinitperiod}{Ming-Zher}{M\bibinithyphendelim Z\bibinitperiod}{}{}{}{}}%
+      {{hash=258f8dc25d025d2bfa47c1bf52b69878}{McDuff}{M\bibinitperiod}{Daniel\bibnamedelima J}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      {{hash=5141fb03c6e29afdfebaa5277dd038bd}{Picard}{P\bibinitperiod}{Rosalind\bibnamedelima W}{R\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+    }
+    \list{publisher}{1}{%
+      {Optical Society of America}%
+    }
+    \strng{namehash}{e5cd5d691d12ecdd373dac66ef3e337e}
+    \strng{fullhash}{e5cd5d691d12ecdd373dac66ef3e337e}
+    \field{sortinit}{P}
+    \field{journaltitle}{Optics express}
+    \field{number}{10}
+    \field{title}{Non-contact, automated cardiac pulse measurements using video imaging and blind source separation.}
+    \field{volume}{18}
+    \field{year}{2010}
+    \field{pages}{10762\bibrangedash 10774}
+  \endentry
+
+  \entry{ren2015faster}{article}{}
+    \name{labelname}{4}{}{%
+      {{hash=bb295293acacd54387339079ebbe4ead}{Ren}{R\bibinitperiod}{Shaoqing}{S\bibinitperiod}{}{}{}{}}%
+      {{hash=6b4b60e909e78633945f3f9c9dc83e01}{He}{H\bibinitperiod}{Kaiming}{K\bibinitperiod}{}{}{}{}}%
+      {{hash=bd5dadbe57bedc5957c19a3154c4d424}{Girshick}{G\bibinitperiod}{Ross}{R\bibinitperiod}{}{}{}{}}%
+      {{hash=f85751488058842b5777c7b4074077b5}{Sun}{S\bibinitperiod}{Jian}{J\bibinitperiod}{}{}{}{}}%
+    }
+    \name{author}{4}{}{%
+      {{hash=bb295293acacd54387339079ebbe4ead}{Ren}{R\bibinitperiod}{Shaoqing}{S\bibinitperiod}{}{}{}{}}%
+      {{hash=6b4b60e909e78633945f3f9c9dc83e01}{He}{H\bibinitperiod}{Kaiming}{K\bibinitperiod}{}{}{}{}}%
+      {{hash=bd5dadbe57bedc5957c19a3154c4d424}{Girshick}{G\bibinitperiod}{Ross}{R\bibinitperiod}{}{}{}{}}%
+      {{hash=f85751488058842b5777c7b4074077b5}{Sun}{S\bibinitperiod}{Jian}{J\bibinitperiod}{}{}{}{}}%
+    }
+    \strng{namehash}{008a132af3e2d4ff15eb01a8fb4b005c}
+    \strng{fullhash}{008a132af3e2d4ff15eb01a8fb4b005c}
+    \field{sortinit}{R}
+    \field{journaltitle}{arXiv preprint arXiv:1506.01497}
+    \field{title}{Faster r-cnn: Towards real-time object detection with region proposal networks}
+    \field{year}{2015}
+  \endentry
+
+  \entry{renlianbiaoqingshibie}{thesis}{}
+    \name{labelname}{1}{}{%
+      {{hash=eae0b3b43fc5b404fa454a4a36ab0d1b}{������}{�\bibinitperiod}{}{}{}{}{}{}}%
+    }
+    \name{author}{1}{}{%
+      {{hash=eae0b3b43fc5b404fa454a4a36ab0d1b}{������}{�\bibinitperiod}{}{}{}{}{}{}}%
+    }
+    \list{institution}{1}{%
+      {���ϴ�ѧ}%
+    }
+    \strng{namehash}{eae0b3b43fc5b404fa454a4a36ab0d1b}
+    \strng{fullhash}{eae0b3b43fc5b404fa454a4a36ab0d1b}
+    \field{sortinit}{ʶ}
+    \field{abstract}{�Զ���������ʶ��(AFER)�ǽ�������չ�������о��ȵ�,��Ŀ�����ü������Ȼ������ϳ��������е����б���֮һ�������顣�����˱����ĸ��ӡ�΢��������ʹ�ñ���ʶ�������쳣�ľ�����ս��������,������ʶ��ϵͳ��˵,��Ҫ���������¼�������:(1)�������ݻ�ȡ���ٶ���׼ȷ������;(2)��Ϊʶ����Ҫǰ���������沿�ؼ�������ȷ��λ����;(3)������������ȡ��ʶ�����⡣�����ص�̽������������ʶ���е������ؼ����⡣��Ҫ�����ܽ�����:	1.�����г���,�ڼ�Ҫ�����������۵Ļ�����,ȫ�������˱���ʶ�����о���ʷ����״�����������м����ڹ��������ڵ��о�״��,���������еĻ��������Ļ�������,�ص���ȫ���������������ı��﷽ʽ֮һ�����沿������ʶ���������������ʶ�������Ϊ�����,�����������˱���ʶ����һ��ģ�͡����ݱ���ʶ����Ŀ�ġ��ֶν�����Ϊ�����׶�,��ÿ���׶ε��о��ص��Լ������Է��������˽�Ϊ�꾡�Ľ��ܡ����沿�����Զ���λ��������ʾģ�͡�������ʶ���㷨�����Ƕȶ���������ʶ����������Ҫ����������˷�������,��������������ʶ�����о���״����Ҫ�����˼�����Ҫ������������,�ܽ������е���Ҫ��������ʶ��ϵͳ������������,������������������ʶ������Ŀǰ��Ȼ���ٵ���Ҫ���������Ϳ������⡣	2.�о��˻��ڷ�ɫ��ģ����������������,������һ�ֻ��ڷ�ɫ���ݶ�ģ�������������㷨�����������������о��еı�Ҫ�о�����,�Ѿ������˶��־����㷨�����ǻ��ڷ�ɫ�����������о�ʱ�䲢������������ǰ�˶Է�ɫ�ռ����о��ɹ�������,������һ���µ�����ƥ��ģ�塪���ݶ�ģ��,��ͼʹ�������о�������������Ϣ�������㷨�ﵽ�˷�ɫ�ռ����˴󲿷ַǷ�ɫ����,�����ݶ�ģ��׼ȷ������Ч����	3.�о���������ȷ��׼����,�Իģ��ģ���������ռ�����������������һЩ�Ľ����沿������ȷ��׼��³��ʵ�õ���������ʶ��ϵͳ�Ļ���ǰ�ᡣ������״ģ��(ASM)��Ŀǰ������������������������꾡�ط���������״ģ��(ASM)�Ĺ���ԭ��,��ϸ��������������ȱ��,���ڴ˻�����,�����������Ľ�:(1)���Ծ���ASM�㷨��ģ�Ϳռ乹���Ĳ���,��ԭģ�Ϳռ��Ļ����ϼ�������״�仯�ӿռ�,���������������ռ��ĸ���,������ԭģ�Ϳռ���ģ�ͱ�������(2)���Ծ���ASM�㷨�����Ժ��ĸĽ��㷨��û���κζ����������������۵���ʵ,������һ�ֺ������㡢���е����۷���,ʹ�������̱��ò���äĿ,��������������ʵ��������(3)�ڵڶ������۵Ļ�����,����ASM�㷨����������ģ��������ͼ�����������໥������ȱ��,������һ�����������㷨,����ʹ���˷�������,ʹ�����ֿռ���������������Լ��,��������,�������̱��ø��Ӻ���,���ܡ���Щ�Ľ���һ���̶����ֲ���ASM�㷨��ģ�Ϳռ����������̵Ĳ���,���ܹ��ȽϾ�ȷ�ض�λԤ�������沿�ؼ�������Ϊ��������������ʶ�����������õ���׼��	4.�о��˶�����������(IC)����������ʾ����,������һ��AdaICA��������ʶ���·��������ö���������Ϊ���������б�����,����������֮���໥����,���һ��ܳ������ñ����ĸ߽�ͳ������Ϣ,���к�ǿ�����ơ���������������������ȱ��:��һ,�������Ļ�ȡ����������,����Ψһ���ڶ�,���������б��������ܲ��ȶ�,�еĶ��������ܾ��к�ǿ��ʶ������,�е������Խ������ܵ���˵�ǻ�ȡ��ѡ����������Ϊ�����ѵ㡣������������,���Ŀ�����ͳ����ԭ��,��������ICA�㷨,�ڴ˻�����,��Boosting���Դ����Ե�Ӧ����ICA�������Ż���ѡ��,���յõ���Ŀ���١��б�����������ǿ��AdaIC����,������ͨ����AdaIC�������б�����ʵ����������ʶ�𡪡�����ν��AdaICA��������ʶ���·�������JAFFE����ѡ������������ͼ�����ϵĶԱ�ʵ������AdaICA����������Ч��ȡ�б�����,ʶ�𾫶�Ҳ�ȴ�ͳ�������˽ϴ����ߡ�	5.�о��˻�����ɢС������ɢ���ҵ���������ȫ��������ȡ����������򵥵��о���ȫ�ֱ�����������ȡ����,������ɢС����ͼ������ѹ��,������ɢ���ұ任��ѹ��ͼ������ȥ���ء���������,�������յĶԽ���ֱ��Ҫ����������Ϊ��ʶ���������㷨����,ʵ�����ס�	6.�о��˻��ھֲ������ı��������,������һ���µľֲ���Ԫģʽ����ʶ���㷨�����ڱ�������һЩ�ֲ������������϶���,׼ȷ�ľֲ������ڱ���ʶ����Ӧ�þ��к�ǿ�����ơ��������¼�����Ҫע��:��һ,���õ��㷨�ܹ���������ȡ�ֲ�����,�����ط�ӳ�ֲ������˽ṹ�����ǿռ���Ϣ,�����ǽ�ȫ��������ȡ�㷨����ͼ���ľֲ��ϡ��ڶ�,��ȡ�������Ծֲ��ı仯������,΢С�ľֲ��仯��Ӧ�ñ���Ӧ����,�Ա�֤׼ȷ����ȡ��ϸ΢�ı����������,����һ������������,��Ϊ�����Ǿֲ��α������ϡ��������ϼ��㿼��,������������ͼ��ѧ�о��к�ǿ�������������ľֲ���Ԫģʽ(Local Binary Patterns,LBP)�㷨,�Ľ������е������Ա���ʶ������������:(1)��ԭͼ�񾭹�С�����ֽⲢ������Ƶ��ͼ��Ϊ�����������ع�,�õ����ķ���ԭͼ����С���ȵĲ�ͬƵ��ͼ��,��һ���̶���������ԭͼ��������,�Ľ���ԭ�㷨���������������⡣(2)��ͼ���ɴֵ����ķ�ʽ��Ϊ�ö�LBPֱ��ͼ��,���ü����Ĳ��Դ���ÿ�����е�LBPֱ��ͼ,������ȡ��ʽ�ĸĽ�ʹ�����յ�����ͬʱ�����оֲ���ȫ�ֵ�������Ϣ,ʹ����ʶ����ʱ�����ܸ�³����(3)ͨ������LBPͼ��������,������һ�ֺ����Ķ�Ȩ����,��������������һ��������ͼ�����ݱ�������Ϣ����,��һ�����ﵽ��һ��������ӦҪ�������øĽ������㷨�����б����б�����,ʵ����������:���ĵĸĽ�ȷʵ������ԭ�㷨³����,�������沿������ʶ���ʡ�}
+    \field{title}{��������ʶ�������ɹؼ��������о�}
+    \field{type}{phdthesis}
+    \field{year}{2005}
+    \keyw{���м���;�Զ���������ʶ��(AFER);��������;�ݶ�ģ��;�沿������׼;������״ģ��(ASM);���ɷַ���(PCA);Eigenface;��ɢС���任(DWT);��ɢ���ұ任(DCT);ZIGZAG��ֱ;AdaBoost;AdaICA����;�ֲ���Ԫģʽ(LBP);������������(ICA)}
+  \endentry
+
+  \entry{renlianbiaoqingshibie1}{thesis}{}
+    \name{labelname}{1}{}{%
+      {{hash=eae0b3b43fc5b404fa454a4a36ab0d1b}{������}{�\bibinitperiod}{}{}{}{}{}{}}%
+    }
+    \name{author}{1}{}{%
+      {{hash=eae0b3b43fc5b404fa454a4a36ab0d1b}{������}{�\bibinitperiod}{}{}{}{}{}{}}%
+    }
+    \list{institution}{1}{%
+      {���ϴ�ѧ}%
+    }
+    \strng{namehash}{eae0b3b43fc5b404fa454a4a36ab0d1b}
+    \strng{fullhash}{eae0b3b43fc5b404fa454a4a36ab0d1b}
+    \field{sortinit}{ʶ}
+    \field{abstract}{��������ʶ����ҽѧ�������������Ź�����Ӧ��ǰ��,��Ŀǰ��һ���ǳ���Ծ���о������������沿�����̺��ŷḻ����ϸ�������к�������Ϣ,�沿����ʶ����Ҫ�漰��������������,������Ч�ػ�ȡ�����沿�������������ο�չ�������������о���	��������Ҫ�о������봴���Թ�������������������:	1)ȫ����������������ʶ���о�����ʷ����״,��������������ʶ�����������������,������ʶ����������ȡ��������ʶ�����ܡ��ڱ���������ȡ����,�ܽ���һЩ�����ı���������ȡ����;�����˱���ͼ��Ԥ�����г��õ�һЩ����;������Gabor��Adaboost������������ȡ����˼·;������������״ģ������������ģ�ͽ��б���������ȡ���㷨����;��֤�˲��û��������㷨��������������ȡ�Ŀ�ʵ���ԡ��ڱ������໷��,�����˴�ͳ��������֧�������������ڱ����������Ľ�������;�����˱������ݿ���ͨ�����������㷨�����Ⱦ��������ֵ�˼��,�Դﵽ���յı�������ʶ��;�����������ƴ����������㷨˼��,����������Ѱ�����ű����������ĵ�һ�����̡��ڱ���ʶ�����ܻ���,�����˱���ʶ��ϵͳ��һ�����̿��ܡ�	2)�����˻���Gabor����������ѧϰ���������ı���ʶ���㷨�����ȶ�GaborС��������BP�������������ϵı���ʶ�𷽷��������о�������,��������BP�����ṹ���Ƶ�һ��ģ��,�����������ڵ���ѡ���ķ��������糣�ô��ݺ�����������ʵ�������м���Ӧ��,ͬʱ����������ģ�͵�ѧϰ���̽�������ϸ����,Ϊ�������������ľ������������̵�;Ȼ������һ������ѧϰ������������ʶ���㷨,���㷨���������λ�ȡ������������������Ҫ������,������GaborС���任��ȡ���������ľֲ�����,��ֻѡ���Ա��鹱����������������,����������ѧϰ����������һ������,����������ѧϰ���������Ľṹ����,������������ѧϰ����������ģ��,����������ѧϰ����������ѵ������,�����˱���ʶ��ʵ��˼·;����,���Ծֲ�Gabor���������������ı���ʶ�𷽷����������ص�ʵ��,ͨ��ʵ��������һ��������֮���ľ����о�,��֤��ͨ������������������������������������������ȷ��;����������һ��ʵ���������б�������ʶ����	3)�����˻���ICA�������������ɷ�ģ�͵ı���ʶ���㷨�����Ƚ����˻�����ICAģ��,���ݱ���ͼ�������������ռ乹��ICAģ��,������FastICA�㷨����,������FastICA�㷨�������������Ĺ���,�����˻����Ӵ�����ȡѵ��������,�õ�����������������;Ȼ������������Ⱥ�Ż��㷨����,�����������ݿռ��������Ž�����������,�������뵽���������Ŀ���������,���������������еĸ��Ӽ��㿪��,���ȽϷ������Ż�����ICA������ICA����������ȡ�����еĲ�ͬ����;����,������HMM��һ������,������HMM����ʶ����ģ����ϸ����,��ȷ��HMMģ�͵ĸ��������Ͻ�����ʵ�������Ƚ�,����ʵ���ѵĲ���Ϊʶ����������,������HMM��һ��ѵ�����̺ͻ����Ż�����ICA��HMM�㷨�ı���ʶ����ϵ;����,�ȽϷ�����������о�,�ó�һЩӰ�������仯������,ͨ��ʵ��������֤����������˼·����ȷ�ԡ�	4)�����˻��ڻ����ģ��������Adaboost�ı���ʶ���㷨�����Ƚ�����ASM������AAM������һ������;Ȼ�����Ա���ͼ���ı��ǵ��������ߵĹ��ɸ���������,���Ƚ���ASM��AAM�Ĳ�ͬ,����������AAM��ȡ�����������������е�����;����,������Adaboost�������㷨��������,Ϊ���ܹ���AAM��ȡ��������ֵ����Adaboost������,������һ���ʺ���Adaboost����������Ҫ��Harr������,��Ӧ�ô�����ͨ��Adaboost���������б���ʶ��;����,ͨ��ʵ����ѵ���������ʵ����ݽ����˷���,�����Բ�ͬ����֮�������������˷����Ƚϡ�	5)�����˻�������������֧�����������ı���ʶ���㷨����������Ŀǰ���ڱ���ʶ����Ҫ����������ѧϰ�㷨�����˽���,����LPP��ά�㷨������һ����Ч����Լ������,����ʵ������֤������Լ���ܹ����õ��Ż�ͶӰ������ѡ��;Ȼ��������һ��LCSVC�ľ�������,��Ч�����˱��������ľ�����Ե�Ĳ��ָ���,��SVC��������,����MFA������������SV��Ȩ��;����,������һ���Ĳ�������������������,��һ����˼·��һ�ֱ���ʶ�𷽷�����Ч;��;����,��֤��ϵͳ��һЩ��Ҫ�����õ��Ĳ���,�����˲�ͬ����֮�������ܱȽϡ�}
+    \field{title}{��������ʶ���㷨�������о�}
+    \field{type}{phdthesis}
+    \field{year}{2009}
+    \keyw{����ʶ��;������������;Adaboost������;֧����������;����Ⱥ�Ż�;�����ģ��;��������}
+  \endentry
+
+  \entry{sung2008pose}{article}{}
+    \name{labelname}{2}{}{%
+      {{hash=eeaf03495e11dfc59e517573e7c5312d}{Sung}{S\bibinitperiod}{Jaewon}{J\bibinitperiod}{}{}{}{}}%
+      {{hash=826a485a12c6138d205cb62fc5afec78}{Kim}{K\bibinitperiod}{Daijin}{D\bibinitperiod}{}{}{}{}}%
+    }
+    \name{author}{2}{}{%
+      {{hash=eeaf03495e11dfc59e517573e7c5312d}{Sung}{S\bibinitperiod}{Jaewon}{J\bibinitperiod}{}{}{}{}}%
+      {{hash=826a485a12c6138d205cb62fc5afec78}{Kim}{K\bibinitperiod}{Daijin}{D\bibinitperiod}{}{}{}{}}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{875010d43f633a241445bb4f036e27cd}
+    \strng{fullhash}{875010d43f633a241445bb4f036e27cd}
+    \field{sortinit}{S}
+    \field{journaltitle}{IEEE Transactions on Systems, Man, and Cybernetics-Part A: Systems and Humans}
+    \field{number}{4}
+    \field{title}{Pose-Robust Facial Expression Recognition Using View-Based 2D $+ $ 3D AAM}
+    \field{volume}{38}
+    \field{year}{2008}
+    \field{pages}{852\bibrangedash 866}
+  \endentry
+
+  \entry{tsalakanidou2010real}{article}{}
+    \name{labelname}{2}{}{%
+      {{hash=10e2180d7b636fc0a3aa575e22d5be90}{Tsalakanidou}{T\bibinitperiod}{Filareti}{F\bibinitperiod}{}{}{}{}}%
+      {{hash=3bc563544b3fe2038e3129733e2cbb50}{Malassiotis}{M\bibinitperiod}{Sotiris}{S\bibinitperiod}{}{}{}{}}%
+    }
+    \name{author}{2}{}{%
+      {{hash=10e2180d7b636fc0a3aa575e22d5be90}{Tsalakanidou}{T\bibinitperiod}{Filareti}{F\bibinitperiod}{}{}{}{}}%
+      {{hash=3bc563544b3fe2038e3129733e2cbb50}{Malassiotis}{M\bibinitperiod}{Sotiris}{S\bibinitperiod}{}{}{}{}}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{877a7271a1f28994eb7586c1dea70402}
+    \strng{fullhash}{877a7271a1f28994eb7586c1dea70402}
+    \field{sortinit}{T}
+    \field{journaltitle}{Pattern Recognition}
+    \field{number}{5}
+    \field{title}{Real-time 2D+ 3D facial action and expression recognition}
+    \field{volume}{43}
+    \field{year}{2010}
+    \field{pages}{1763\bibrangedash 1775}
+  \endentry
+
+  \entry{verkruysse2008remote}{article}{}
+    \name{labelname}{3}{}{%
+      {{hash=34977d34e5f3e3e8b2c220a1f96aed98}{Verkruysse}{V\bibinitperiod}{Wim}{W\bibinitperiod}{}{}{}{}}%
+      {{hash=c4f10751566af9c605eebfd851b2056b}{Svaasand}{S\bibinitperiod}{Lars\bibnamedelima O}{L\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+      {{hash=317623aa8fd7f9bba75427870a62913c}{Nelson}{N\bibinitperiod}{J\bibnamedelima Stuart}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+    }
+    \name{author}{3}{}{%
+      {{hash=34977d34e5f3e3e8b2c220a1f96aed98}{Verkruysse}{V\bibinitperiod}{Wim}{W\bibinitperiod}{}{}{}{}}%
+      {{hash=c4f10751566af9c605eebfd851b2056b}{Svaasand}{S\bibinitperiod}{Lars\bibnamedelima O}{L\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+      {{hash=317623aa8fd7f9bba75427870a62913c}{Nelson}{N\bibinitperiod}{J\bibnamedelima Stuart}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+    }
+    \list{publisher}{1}{%
+      {Optical Society of America}%
+    }
+    \strng{namehash}{0bd69a602d4b3f2593daa39d965a0eb7}
+    \strng{fullhash}{0bd69a602d4b3f2593daa39d965a0eb7}
+    \field{sortinit}{V}
+    \field{journaltitle}{Optics express}
+    \field{number}{26}
+    \field{title}{Remote plethysmographic imaging using ambient light.}
+    \field{volume}{16}
+    \field{year}{2008}
+    \field{pages}{21434\bibrangedash 21445}
+  \endentry
+
+  \entry{wang2007static}{article}{}
+    \name{labelname}{2}{}{%
+      {{hash=2f3ea981fa5a715a69118b48e576a9f5}{Wang}{W\bibinitperiod}{Jun}{J\bibinitperiod}{}{}{}{}}%
+      {{hash=7d77a4a946b3870f08da2f8d89435f1e}{Yin}{Y\bibinitperiod}{Lijun}{L\bibinitperiod}{}{}{}{}}%
+    }
+    \name{author}{2}{}{%
+      {{hash=2f3ea981fa5a715a69118b48e576a9f5}{Wang}{W\bibinitperiod}{Jun}{J\bibinitperiod}{}{}{}{}}%
+      {{hash=7d77a4a946b3870f08da2f8d89435f1e}{Yin}{Y\bibinitperiod}{Lijun}{L\bibinitperiod}{}{}{}{}}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{08b73218e751239c698e060b902690fb}
+    \strng{fullhash}{08b73218e751239c698e060b902690fb}
+    \field{sortinit}{W}
+    \field{journaltitle}{Computer Vision and Image Understanding}
+    \field{number}{1-2}
+    \field{title}{Static topographic modeling for facial expression recognition and analysis}
+    \field{volume}{108}
+    \field{year}{2007}
+    \field{pages}{19\bibrangedash 34}
+  \endentry
+
+  \entry{wang2016algorithmic}{article}{}
+    \name{labelname}{4}{}{%
+      {{hash=1ac3a5e8f9247f57b2e85956b9f97f9a}{Wang}{W\bibinitperiod}{Wenjin}{W\bibinitperiod}{}{}{}{}}%
+      {{hash=ce01750a57b88ceffe9147016e393554}{Brinker}{B\bibinitperiod}{Albertus\bibnamedelima C}{A\bibinitperiod\bibinitdelim C\bibinitperiod}{den}{d\bibinitperiod}{}{}}%
+      {{hash=e80385f85fc34612db868d4cda060621}{Stuijk}{S\bibinitperiod}{Sander}{S\bibinitperiod}{}{}{}{}}%
+      {{hash=dc3789c3de01b9563f906e4a295a82ad}{De\bibnamedelima Haan}{D\bibinitperiod\bibinitdelim H\bibinitperiod}{Gerard}{G\bibinitperiod}{}{}{}{}}%
+    }
+    \name{author}{4}{}{%
+      {{hash=1ac3a5e8f9247f57b2e85956b9f97f9a}{Wang}{W\bibinitperiod}{Wenjin}{W\bibinitperiod}{}{}{}{}}%
+      {{hash=ce01750a57b88ceffe9147016e393554}{Brinker}{B\bibinitperiod}{Albertus\bibnamedelima C}{A\bibinitperiod\bibinitdelim C\bibinitperiod}{den}{d\bibinitperiod}{}{}}%
+      {{hash=e80385f85fc34612db868d4cda060621}{Stuijk}{S\bibinitperiod}{Sander}{S\bibinitperiod}{}{}{}{}}%
+      {{hash=dc3789c3de01b9563f906e4a295a82ad}{De\bibnamedelima Haan}{D\bibinitperiod\bibinitdelim H\bibinitperiod}{Gerard}{G\bibinitperiod}{}{}{}{}}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{d27d6733a475f7e45af051685420440a}
+    \strng{fullhash}{d27d6733a475f7e45af051685420440a}
+    \field{sortinit}{W}
+    \field{journaltitle}{IEEE Transactions on Biomedical Engineering}
+    \field{number}{7}
+    \field{title}{Algorithmic principles of remote PPG}
+    \field{volume}{64}
+    \field{year}{2016}
+    \field{pages}{1479\bibrangedash 1491}
+  \endentry
+
+  \entry{wang2017amplitude}{article}{}
+    \name{labelname}{4}{}{%
+      {{hash=1ac3a5e8f9247f57b2e85956b9f97f9a}{Wang}{W\bibinitperiod}{Wenjin}{W\bibinitperiod}{}{}{}{}}%
+      {{hash=ce01750a57b88ceffe9147016e393554}{Brinker}{B\bibinitperiod}{Albertus\bibnamedelima C}{A\bibinitperiod\bibinitdelim C\bibinitperiod}{den}{d\bibinitperiod}{}{}}%
+      {{hash=e80385f85fc34612db868d4cda060621}{Stuijk}{S\bibinitperiod}{Sander}{S\bibinitperiod}{}{}{}{}}%
+      {{hash=703bcc5f67c5cc6a14c3f5a0025ef6c7}{Haan}{H\bibinitperiod}{Gerard}{G\bibinitperiod}{de}{d\bibinitperiod}{}{}}%
+    }
+    \name{author}{4}{}{%
+      {{hash=1ac3a5e8f9247f57b2e85956b9f97f9a}{Wang}{W\bibinitperiod}{Wenjin}{W\bibinitperiod}{}{}{}{}}%
+      {{hash=ce01750a57b88ceffe9147016e393554}{Brinker}{B\bibinitperiod}{Albertus\bibnamedelima C}{A\bibinitperiod\bibinitdelim C\bibinitperiod}{den}{d\bibinitperiod}{}{}}%
+      {{hash=e80385f85fc34612db868d4cda060621}{Stuijk}{S\bibinitperiod}{Sander}{S\bibinitperiod}{}{}{}{}}%
+      {{hash=703bcc5f67c5cc6a14c3f5a0025ef6c7}{Haan}{H\bibinitperiod}{Gerard}{G\bibinitperiod}{de}{d\bibinitperiod}{}{}}%
+    }
+    \list{publisher}{1}{%
+      {Optical Society of America}%
+    }
+    \strng{namehash}{02cc3df302530fb4951d2d84aa37b236}
+    \strng{fullhash}{02cc3df302530fb4951d2d84aa37b236}
+    \field{sortinit}{W}
+    \field{journaltitle}{Biomedical optics express}
+    \field{number}{3}
+    \field{title}{Amplitude-selective filtering for remote-PPG}
+    \field{volume}{8}
+    \field{year}{2017}
+    \field{pages}{1965\bibrangedash 1980}
+  \endentry
+
+  \entry{yacoob1996recognizing}{article}{}
+    \name{labelname}{2}{}{%
+      {{hash=521111222d3f4be2313bd61147cf4997}{Yacoob}{Y\bibinitperiod}{Yaser}{Y\bibinitperiod}{}{}{}{}}%
+      {{hash=966e804d1a53ebf7f92e68e27d427340}{Davis}{D\bibinitperiod}{Larry\bibnamedelima S}{L\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+    }
+    \name{author}{2}{}{%
+      {{hash=521111222d3f4be2313bd61147cf4997}{Yacoob}{Y\bibinitperiod}{Yaser}{Y\bibinitperiod}{}{}{}{}}%
+      {{hash=966e804d1a53ebf7f92e68e27d427340}{Davis}{D\bibinitperiod}{Larry\bibnamedelima S}{L\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{2a0e5e54c08925e1425be27bce631fa3}
+    \strng{fullhash}{2a0e5e54c08925e1425be27bce631fa3}
+    \field{sortinit}{Y}
+    \field{journaltitle}{IEEE Transactions on pattern analysis and machine intelligence}
+    \field{number}{6}
+    \field{title}{Recognizing human facial expressions from long image sequences using optical flow}
+    \field{volume}{18}
+    \field{year}{1996}
+    \field{pages}{636\bibrangedash 642}
+  \endentry
+
+  \entry{zheng2006facial}{article}{}
+    \name{labelname}{4}{}{%
+      {{hash=85d104717726c07cf73c40241175da6b}{Zheng}{Z\bibinitperiod}{Wenming}{W\bibinitperiod}{}{}{}{}}%
+      {{hash=549b41af5d5232fa082c9bbe9e33fd45}{Zhou}{Z\bibinitperiod}{Xiaoyan}{X\bibinitperiod}{}{}{}{}}%
+      {{hash=83720f7e5855a917bb2f50c2f9d22616}{Zou}{Z\bibinitperiod}{Cairong}{C\bibinitperiod}{}{}{}{}}%
+      {{hash=1a85fb4271591180033cc6d2d2310539}{Zhao}{Z\bibinitperiod}{Li}{L\bibinitperiod}{}{}{}{}}%
+    }
+    \name{author}{4}{}{%
+      {{hash=85d104717726c07cf73c40241175da6b}{Zheng}{Z\bibinitperiod}{Wenming}{W\bibinitperiod}{}{}{}{}}%
+      {{hash=549b41af5d5232fa082c9bbe9e33fd45}{Zhou}{Z\bibinitperiod}{Xiaoyan}{X\bibinitperiod}{}{}{}{}}%
+      {{hash=83720f7e5855a917bb2f50c2f9d22616}{Zou}{Z\bibinitperiod}{Cairong}{C\bibinitperiod}{}{}{}{}}%
+      {{hash=1a85fb4271591180033cc6d2d2310539}{Zhao}{Z\bibinitperiod}{Li}{L\bibinitperiod}{}{}{}{}}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{43439315e1beed9c5be0384e1a822605}
+    \strng{fullhash}{43439315e1beed9c5be0384e1a822605}
+    \field{sortinit}{Z}
+    \field{journaltitle}{IEEE transactions on neural networks}
+    \field{number}{1}
+    \field{title}{Facial expression recognition using kernel canonical correlation analysis (KCCA)}
+    \field{volume}{17}
+    \field{year}{2006}
+    \field{pages}{233\bibrangedash 238}
+  \endentry
+
+  \entry{zhichixiangliangjianbie}{article}{}
+    \name{labelname}{4}{}{%
+      {{hash=a288f9217a4c58796aa2c1d9885a0080}{Ӧ��¯}{Ӧ\bibinitperiod}{}{}{}{}{}{}}%
+      {{hash=57203ee040aced12243682bb6fd63497}{�ƾ���}{�\bibinitperiod}{}{}{}{}{}{}}%
+      {{hash=9ed1988376ec4822f22e42b5a03db2d6}{���}{�\bibinitperiod}{}{}{}{}{}{}}%
+      {{hash=a23ab287fd09d18e02fff8ed2d77e4de}{����Ϊ}{�\bibinitperiod}{}{}{}{}{}{}}%
+    }
+    \name{author}{4}{}{%
+      {{hash=a288f9217a4c58796aa2c1d9885a0080}{Ӧ��¯}{Ӧ\bibinitperiod}{}{}{}{}{}{}}%
+      {{hash=57203ee040aced12243682bb6fd63497}{�ƾ���}{�\bibinitperiod}{}{}{}{}{}{}}%
+      {{hash=9ed1988376ec4822f22e42b5a03db2d6}{���}{�\bibinitperiod}{}{}{}{}{}{}}%
+      {{hash=a23ab287fd09d18e02fff8ed2d77e4de}{����Ϊ}{�\bibinitperiod}{}{}{}{}{}{}}%
+    }
+    \strng{namehash}{f0e4a6628e6e679d4523d63011234628}
+    \strng{fullhash}{f0e4a6628e6e679d4523d63011234628}
+    \field{sortinit}{Ӧ}
+    \field{abstract}{ģʽʶ��һ������Ҫ�����ݽ��н�ά,PCA��LDA������Ӧ�ĺ˻��㷨������Ӧ�ù㷺�ķ���,����Щ�㷨��Ӧ��ǰ���Ǽ�����������Ϊ��˹�ֲ�,��������ѵ��ʱ���ǵ��ƹ������кܴ�����.����������һ�ֻ���֧���������ļ��������㷨,���㷨����Ѱ�������������������ŷ�����,���䷨�߷���ΪͶӰ�������ݽ���ͶӰ��ά,�ڶ����������ṩ�˼����ḻ�ķ���ѡ��ͶӰ��.���㷨������֧�������������������ƹ�����,�˷���PCA��LDA���㷨�ľ�����.���Ľ������㷨Ӧ������������������ȡ,����PCA��LDA��KPCA��GDA���㷨�����˱Ƚ�,�����������㷨����Ч��.}
+    \field{isbn}{0372-2112}
+    \field{issn}{0372-2112}
+    \field{issue}{04}
+    \field{journaltitle}{����ѧ��}
+    \field{title}{֧��������������������������ʶ���е�Ӧ��}
+    \field{year}{2008}
+    \field{pages}{725\bibrangedash 730}
+    \keyw{ģʽʶ��;��Ԫ����;Fisher��������;֧��������;����ʶ��}
+  \endentry
+
+  \entry{123a}{thesis}{}
+    \name{labelname}{1}{}{%
+      {{hash=93a840ba1308b82c5e3821aaac5008dd}{郭茗涵}{郭\bibinitperiod}{}{}{}{}{}{}}%
+    }
+    \name{author}{1}{}{%
+      {{hash=93a840ba1308b82c5e3821aaac5008dd}{郭茗涵}{郭\bibinitperiod}{}{}{}{}{}{}}%
+    }
+    \list{institution}{1}{%
+      {吉林大学}%
+    }
+    \strng{namehash}{93a840ba1308b82c5e3821aaac5008dd}
+    \strng{fullhash}{93a840ba1308b82c5e3821aaac5008dd}
+    \field{sortinit}{郭}
+    \field{title}{基于深度学习的声纹识别算法研究}
+    \field{type}{mathesis}
+    \field{year}{2020}
+  \endentry
+
+  \entry{XuQinZhen2008}{article}{}
+    \name{labelname}{5}{}{%
+      {{hash=eae0b3b43fc5b404fa454a4a36ab0d1b}{������}{�\bibinitperiod}{}{}{}{}{}{}}%
+      {{hash=2442a5a8bb9f33cc6e415da478dee4a0}{��Ʒ��}{�\bibinitperiod}{}{}{}{}{}{}}%
+      {{hash=8edb648b156d63bcc9378dee32c4d656}{���Ľ�}{�\bibinitperiod}{}{}{}{}{}{}}%
+      {{hash=0b05fcc74de38cef1da4b3ff9f538635}{����Ϫ}{�\bibinitperiod}{}{}{}{}{}{}}%
+      {{hash=eae0b3b43fc5b404fa454a4a36ab0d1b}{������}{�\bibinitperiod}{}{}{}{}{}{}}%
+    }
+    \name{author}{5}{}{%
+      {{hash=eae0b3b43fc5b404fa454a4a36ab0d1b}{������}{�\bibinitperiod}{}{}{}{}{}{}}%
+      {{hash=2442a5a8bb9f33cc6e415da478dee4a0}{��Ʒ��}{�\bibinitperiod}{}{}{}{}{}{}}%
+      {{hash=8edb648b156d63bcc9378dee32c4d656}{���Ľ�}{�\bibinitperiod}{}{}{}{}{}{}}%
+      {{hash=0b05fcc74de38cef1da4b3ff9f538635}{����Ϫ}{�\bibinitperiod}{}{}{}{}{}{}}%
+      {{hash=eae0b3b43fc5b404fa454a4a36ab0d1b}{������}{�\bibinitperiod}{}{}{}{}{}{}}%
+    }
+    \strng{namehash}{17cf1ed2110b9ebb1e8ca5c59468bda7}
+    \strng{fullhash}{c7f11f56d05a0789140ffd9346a41502}
+    \field{sortinit}{ڻ}
+    \field{journaltitle}{�й�ͼ��ͼ��ѧ��}
+    \field{number}{07}
+    \field{title}{���ڻ�������֧�������������Զ��沿�������෽��}
+    \field{year}{2008}
+    \field{pages}{1329\bibrangedash 1334}
+  \endentry
+
+  \missing{WI64}
+  \missing{G03}
+  \missing{M91}
+  \missing{JS03}
+  \missing{D01}
+\endrefsection
+\endinput
+

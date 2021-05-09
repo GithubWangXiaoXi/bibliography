@@ -1,0 +1,54 @@
+\let \CTEX@spaceChar \relax 
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\contentsline {chapter}{前\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 言}{i}{chapter*.1}
+\contentsline {chapter}{概\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 览}{v}{chapter*.3}
+\contentsline {chapter}{\numberline {第一章\hspace {0.3em}}如何避免让自己成为"思想上的巨人，行动上的矮子" - 网友篇}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}网友1：敢做敢想}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}网友2：眼低手高}{2}{section.1.2}
+\contentsline {section}{\numberline {1.3}网友3：自我认知不够}{2}{section.1.3}
+\contentsline {section}{\numberline {1.4}网友4：举例说明}{2}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}宇宙的起源}{2}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}思想上是巨人吗}{4}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}艺术家，新生儿，乔布斯，马斯克}{4}{subsection.1.4.3}
+\contentsline {chapter}{\numberline {第二章\hspace {0.3em}}如何避免让自己成为"思想上的巨人，行动上的矮子" - 个人篇}{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}思想上的巨人}{7}{section.2.1}
+\contentsline {section}{\numberline {2.2}行动上的巨人}{7}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}哪些行为属于行动}{7}{subsection.2.2.1}
+\contentsline {section}{\numberline {2.3}思想和行动的内在关系}{8}{section.2.3}
+\contentsline {section}{\numberline {2.4}如何避免成为"行动上的矮子"}{8}{section.2.4}
+\contentsline {chapter}{\numberline {第三章\hspace {0.3em}}如何避免"破罐子破摔"的心态 - 网友篇}{11}{chapter.3}
+\contentsline {section}{\numberline {3.1}网友1 - 停止自责，即使止损}{11}{section.3.1}
+\contentsline {section}{\numberline {3.2}网友2 - 对自身价值的认识}{12}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}这种心态从何而来？(不考虑极端情况)}{12}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}如何防止自己进入这种恶性循环？}{12}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}网友3 - 完美主义惹的祸}{13}{section.3.3}
+\contentsline {section}{\numberline {3.4}网友4 - 自我价值感太低}{13}{section.3.4}
+\contentsline {section}{\numberline {3.5}网友5 - 罐子要及时修补}{13}{section.3.5}
+\contentsline {section}{\numberline {3.6}网友6 - 缺乏归属感}{14}{section.3.6}
+\contentsline {section}{\numberline {3.7}网友7 - 习得性无助}{15}{section.3.7}
+\contentsline {section}{\numberline {3.8}网友8 - 假设漏洞已补上，继续推演}{15}{section.3.8}
+\contentsline {section}{\numberline {3.9}网友9 - 心理原因：这件事未能如期达成定义为失败}{15}{section.3.9}
+\contentsline {section}{\numberline {3.10}网友10 - 指定可行小目标，一点点找回认可}{16}{section.3.10}
+\contentsline {section}{\numberline {3.11}网友11 - 回本作用和沉没成本}{16}{section.3.11}
+\contentsline {section}{\numberline {3.12}网友12 - 学习牛人，提升自己能力}{17}{section.3.12}
+\contentsline {chapter}{\numberline {第四章\hspace {0.3em}}如何避免"破罐子破摔"的心态 - 个人篇}{19}{chapter.4}
+\contentsline {section}{\numberline {4.1}自己做了哪些事属于破罐子破摔}{19}{section.4.1}
+\contentsline {section}{\numberline {4.2}原因分析}{19}{section.4.2}
+\contentsline {section}{\numberline {4.3}解决方法}{20}{section.4.3}
+\contentsline {chapter}{\numberline {第五章\hspace {0.3em}}充满正能量和充满负能量的人 - 网友篇}{23}{chapter.5}
+\contentsline {section}{\numberline {5.1}网友1 - 稳定负能量的人平淡真实}{23}{section.5.1}
+\contentsline {section}{\numberline {5.2}网友2 - 正/负能量划分泯灭了正常情绪表达}{24}{section.5.2}
+\contentsline {section}{\numberline {5.3}网友3 - 正能量爆棚的人往往自以为是}{24}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}diss环节}{25}{subsection.5.3.1}
+\contentsline {section}{\numberline {5.4}网友4 - 负能量的人受正能量的人积极的影响}{25}{section.5.4}
+\contentsline {section}{\numberline {5.5}网友5 - 充满负能量中二的人}{25}{section.5.5}
+\contentsline {section}{\numberline {5.6}网友6 - 学会分析自己的负能量}{26}{section.5.6}
+\contentsline {section}{\numberline {5.7}网友7 - 负能量满满的人自救才会被接受}{26}{section.5.7}
+\contentsline {section}{\numberline {5.8}网友8 - 充满负能量的人不爱自己，更不会爱别人}{27}{section.5.8}
+\contentsline {section}{\numberline {5.9}网友9 - 理性客观面对生活}{27}{section.5.9}
+\contentsline {section}{\numberline {5.10}网友10 - 真正强大的正能量者}{28}{section.5.10}
+\contentsline {section}{\numberline {5.11}网友11 - 圣母般的正能量}{28}{section.5.11}
+\contentsline {section}{\numberline {5.12}网友12 - 负能量的人太无私，不喜欢自己}{29}{section.5.12}
+\contentsline {section}{\numberline {5.13}网友13 - 负能量的人渴望正能量的人}{29}{section.5.13}
+\contentsline {subsection}{\numberline {5.13.1}有网友提出妙招 - 关心事实，别太关注自己}{29}{subsection.5.13.1}
+\contentsline {chapter}{\numberline {第六章\hspace {0.3em}}充满正能量和充满负能量的人 - 个人篇}{31}{chapter.6}

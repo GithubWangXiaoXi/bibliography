@@ -1,0 +1,32 @@
+﻿\documentclass[]{book}
+\usepackage[ruled,vlined]{algorithm2e}
+
+\begin{document}
+\begin{algorithm}[t]
+	\caption{Framework of Meta-GNN.}
+	\label{alg:algorithm1}
+	\KwIn{Distribution over mete-training tasks: $p(\mathcal{T})$; Meta-testing tasks: $\mathcal{T}_{mt}$; Task-learning rate: $\alpha_{1}$; Meta-learning rate: $\alpha_{2}$.}
+	\KwOut{Labels of nodes in query set of $\mathcal{T}_{mt}$.}
+	\BlankLine
+	Initialize $\bm{\theta}$ randomly;
+	
+	\While{\textnormal{not converged}}{
+		Sample batch of meta-training tasks $\mathcal{T}_{i} \sim p(\mathcal{T})$;
+		
+		\ForEach{task in $\mathcal{T}_{i}$}{
+			Evaluate $\mathcal{L}_{\mathcal{T}_{i}}\left(f_{\bm{\theta}}\right)$ using $\mathcal{S}_{i}$;
+			
+			Compute adapted parameters $\bm{{\theta}^{\prime}_{i}}$;
+			
+			Evaluate $\mathcal{L}_{\mathcal{T}_{i}}\left(f_{\bm{{\theta}_{i}^{\prime}}}\right)$ using $\mathcal{Q}_{i}$;
+		}
+		Update $\bm{\theta}$ by;
+	}
+	
+	Compute adapted parameters $\bm{{\theta}^{\prime}_{mt}}$ using support set of $\mathcal{T}_{mt}$;
+	
+	Predict labels of nodes in query set of $\mathcal{T}_{mt}$ using model $f_{\bm{{\theta}_{mt}^{\prime}}}$.
+\end{algorithm}
+\end{document}
+
+

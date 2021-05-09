@@ -1,0 +1,16 @@
+[0] Config.pm:300> INFO - This is Biber 0.9.8
+[0] Config.pm:303> INFO - Logfile is 'qbook.blg'
+[3] biber-MSWIN:131> INFO - === %a %b %e, %Y, %H:%M:%S
+[3] Biber.pm:271> INFO - Reading 'qbook.bcf'
+[20] Biber.pm:586> INFO - Found 3 citekeys in bib section 0
+[34] Biber.pm:2583> INFO - Processing bib section 0
+[54] Biber.pm:2675> INFO - Looking for bibtex format file 'bib/qbook.bib' for section 0
+[62] bibtex.pm:819> INFO - Decoding LaTeX character macros into UTF-8
+[63] bibtex.pm:823> INFO - Finished Decoding LaTeX character macros into UTF-8
+[63] bibtex.pm:689> INFO - Found BibTeX data source 'bib/qbook.bib'
+[125] Biber.pm:2478> INFO - Sorting list 'MAIN' keys
+[125] Biber.pm:2482> INFO - No sort tailoring available for locale 'English_United States.1252'
+[135] Biber.pm:2478> INFO - Sorting list 'SHORTHANDS' keys
+[135] Biber.pm:2482> INFO - No sort tailoring available for locale 'English_United States.1252'
+[150] bbl.pm:427> INFO - Writing 'qbook.bbl' with encoding 'UTF-8'
+[150] bbl.pm:498> INFO - Output to qbook.bbl

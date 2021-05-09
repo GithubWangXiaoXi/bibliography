@@ -1,0 +1,8 @@
+@inproceedings{prabhu2020gdumb,
+  title={GDumb: A simple approach that questions our progress in continual learning},
+  author={Prabhu, Ameya and Torr, Philip HS and Dokania, Puneet K},
+  booktitle={European Conference on Computer Vision},
+  pages={524--540},
+  year={2020},
+  organization={Springer}
+}

@@ -1,0 +1,8 @@
+﻿\documentclass{article}
+\begin{document}
+    \include{tex/chapter1}
+    wang\cite{123a}
+    faster-rcnn\cite{ren2015faster}
+    \bibliographystyle{alpha}
+    \bibliography{name}
+\end{document}

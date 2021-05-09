@@ -1,0 +1,96 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 1.7 $
+% $ biber version 0.9.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber or bibtex as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \entry{kang2019few}{inproceedings}{}
+    \name{labelname}{6}{}{%
+      {{hash=f00adc70822a55eef709dcde125a234b}{Kang}{K\bibinitperiod}{Bingyi}{B\bibinitperiod}{}{}{}{}}%
+      {{hash=f7eda249dc15ce9f452344ec95bbcc67}{Liu}{L\bibinitperiod}{Zhuang}{Z\bibinitperiod}{}{}{}{}}%
+      {{hash=03d3e23852937fa39b0e34246c4ecd1d}{Wang}{W\bibinitperiod}{Xin}{X\bibinitperiod}{}{}{}{}}%
+      {{hash=7d644ffcde545cbf48ce06126689b74c}{Yu}{Y\bibinitperiod}{Fisher}{F\bibinitperiod}{}{}{}{}}%
+      {{hash=ee4de6563d3aa74999c7a69f8f345e56}{Feng}{F\bibinitperiod}{Jiashi}{J\bibinitperiod}{}{}{}{}}%
+      {{hash=90180e1a30742e0d15328bfe637c2ef4}{Darrell}{D\bibinitperiod}{Trevor}{T\bibinitperiod}{}{}{}{}}%
+    }
+    \name{author}{6}{}{%
+      {{hash=f00adc70822a55eef709dcde125a234b}{Kang}{K\bibinitperiod}{Bingyi}{B\bibinitperiod}{}{}{}{}}%
+      {{hash=f7eda249dc15ce9f452344ec95bbcc67}{Liu}{L\bibinitperiod}{Zhuang}{Z\bibinitperiod}{}{}{}{}}%
+      {{hash=03d3e23852937fa39b0e34246c4ecd1d}{Wang}{W\bibinitperiod}{Xin}{X\bibinitperiod}{}{}{}{}}%
+      {{hash=7d644ffcde545cbf48ce06126689b74c}{Yu}{Y\bibinitperiod}{Fisher}{F\bibinitperiod}{}{}{}{}}%
+      {{hash=ee4de6563d3aa74999c7a69f8f345e56}{Feng}{F\bibinitperiod}{Jiashi}{J\bibinitperiod}{}{}{}{}}%
+      {{hash=90180e1a30742e0d15328bfe637c2ef4}{Darrell}{D\bibinitperiod}{Trevor}{T\bibinitperiod}{}{}{}{}}%
+    }
+    \strng{namehash}{9c8c415deae09253dbce37a69b467c2b}
+    \strng{fullhash}{5442defd8869a9cf181b6db83ccb3761}
+    \field{sortinit}{K}
+    \field{booktitle}{Proceedings of the IEEE/CVF International Conference on Computer Vision}
+    \field{title}{Few-shot object detection via feature reweighting}
+    \field{year}{2019}
+    \field{pages}{8420\bibrangedash 8429}
+  \endentry
+
+  \entry{prabhu2020gdumb}{inproceedings}{}
+    \name{labelname}{3}{}{%
+      {{hash=2ad53f0d920edbb03b19ca6df6b94fba}{Prabhu}{P\bibinitperiod}{Ameya}{A\bibinitperiod}{}{}{}{}}%
+      {{hash=54f56c6f5e1c1368b97d37a7fba4c19e}{Torr}{T\bibinitperiod}{Philip\bibnamedelima HS}{P\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      {{hash=c99c1a72f7e13bf2e4b1a9d29f4af1e6}{Dokania}{D\bibinitperiod}{Puneet\bibnamedelima K}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+    }
+    \name{author}{3}{}{%
+      {{hash=2ad53f0d920edbb03b19ca6df6b94fba}{Prabhu}{P\bibinitperiod}{Ameya}{A\bibinitperiod}{}{}{}{}}%
+      {{hash=54f56c6f5e1c1368b97d37a7fba4c19e}{Torr}{T\bibinitperiod}{Philip\bibnamedelima HS}{P\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      {{hash=c99c1a72f7e13bf2e4b1a9d29f4af1e6}{Dokania}{D\bibinitperiod}{Puneet\bibnamedelima K}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+    }
+    \list{organization}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{7e0b219b15e55f01922a27bb5f21425f}
+    \strng{fullhash}{7e0b219b15e55f01922a27bb5f21425f}
+    \field{sortinit}{P}
+    \field{booktitle}{European Conference on Computer Vision}
+    \field{title}{GDumb: A simple approach that questions our progress in continual learning}
+    \field{year}{2020}
+    \field{pages}{524\bibrangedash 540}
+  \endentry
+
+  \entry{wang2020frustratingly}{article}{}
+    \name{labelname}{5}{}{%
+      {{hash=03d3e23852937fa39b0e34246c4ecd1d}{Wang}{W\bibinitperiod}{Xin}{X\bibinitperiod}{}{}{}{}}%
+      {{hash=734c5f1ead67ac325de948d7268eed2a}{Huang}{H\bibinitperiod}{Thomas\bibnamedelima E}{T\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      {{hash=90180e1a30742e0d15328bfe637c2ef4}{Darrell}{D\bibinitperiod}{Trevor}{T\bibinitperiod}{}{}{}{}}%
+      {{hash=f35ddb80cad3cdb779e4f64b4294be1e}{Gonzalez}{G\bibinitperiod}{Joseph\bibnamedelima E}{J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      {{hash=7d644ffcde545cbf48ce06126689b74c}{Yu}{Y\bibinitperiod}{Fisher}{F\bibinitperiod}{}{}{}{}}%
+    }
+    \name{author}{5}{}{%
+      {{hash=03d3e23852937fa39b0e34246c4ecd1d}{Wang}{W\bibinitperiod}{Xin}{X\bibinitperiod}{}{}{}{}}%
+      {{hash=734c5f1ead67ac325de948d7268eed2a}{Huang}{H\bibinitperiod}{Thomas\bibnamedelima E}{T\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      {{hash=90180e1a30742e0d15328bfe637c2ef4}{Darrell}{D\bibinitperiod}{Trevor}{T\bibinitperiod}{}{}{}{}}%
+      {{hash=f35ddb80cad3cdb779e4f64b4294be1e}{Gonzalez}{G\bibinitperiod}{Joseph\bibnamedelima E}{J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      {{hash=7d644ffcde545cbf48ce06126689b74c}{Yu}{Y\bibinitperiod}{Fisher}{F\bibinitperiod}{}{}{}{}}%
+    }
+    \strng{namehash}{aeaae95a3851acdb0d7c761eee05b973}
+    \strng{fullhash}{2fbcedaf2eb72eda8d304a0b6e63d30e}
+    \field{sortinit}{W}
+    \field{journaltitle}{arXiv preprint arXiv:2003.06957}
+    \field{title}{Frustratingly simple few-shot object detection}
+    \field{year}{2020}
+  \endentry
+
+\endrefsection
+\endinput
+
