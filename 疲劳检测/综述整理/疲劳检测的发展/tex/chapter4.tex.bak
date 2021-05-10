@@ -634,6 +634,31 @@ Py-Feat提供一些基本的分析方法：t-test，回归，主体间相关性�
 
 对于一张静态图片或者视频帧，Py-Feat提供了plot$\_$detection方法，对图片中人脸、人脸关键点、动作单元的检测结果和情绪识别的结果进行绘制。
 
+\subsection{人脸表情数据集}
+
+1、VA Set:
+Each annotation file is named after the video that it corresponds to. The first line of each annotation file is always: valence,arousal
+Each line after the first, shows the valence and arousal values separated by a comma. Note that valence and arousal take values in the range: [-1,1].
+In some annotation files, in some lines, there exist the values -5,-5 which mean that this frame is not annotated with a valence, arousal value and you should disregard such frames.
+There exist some videos (such as 30-30-1920x1080.mp4) in which there exist two subjects reacting to what they see, etc. Both subjects have been annotated and the corresponding annotation files are distinguished with the endings-extensions '_left' and '_right'. For instance, for video named 30-30-1920x1080.mp4 the two annotation files are 30-30-1920x1080_left.txt and 30-30-1920x1080_right.txt  (corresponding to the left and right persons respectively; in all these videos, people have the same order, meaning that the one person is always on the left and thus the annotation file with extension _left always annotates this person and same for the person on the right). We also make a special mention (exception) for videos named: i) 10-60-1280x720.mp4 (found in the train set), ii) video59.mp4 (found in the validation set) and iii) video2.mp4 (found in the test set). These videos have the annotation files named:  i) 10-60-1280x720.txt and 10-60-1280x720_right.txt, ii) video59.txt and video59_right.txt and iii) video2.txt and video2_left.txt. In these cases, the videos contain one (main) subject; for small durations of time the camera is showing another person (coming from the left or right side), who is annotated with the extension  '_left' or '_right' as mentioned in (i)-(iii) above.
+
+2、AU Set:
+Each annotation file is named after the video that it corresponds to. The first line of each annotation file is always:
+AU1,AU2,AU4,AU6,AU12,AU15,AU20,AU25
+Each line after the first, shows the AU annotation values separated by a comma. Note that each value could be 0 or 1 or -1. Frames annotated with the -1 value, should be discarded .
+Again, there exist some videos in which there exist two subjects reacting to what they see, etc. Both subjects have been annotated and the corresponding annotation files are distinguished with the endings-extensions '_left' and '_right' as explained in the VA case above. The special mention (exception) here is the video named video59.mp4 which has the annotation files video59.txt and video59_right.txt.
+
+3、Expression Set:
+Each annotation file is named after the video that it corresponds to. The first line of each annotation file is always:
+Neutral,Anger,Disgust,Fear,Happiness,Sadness,Surprise
+Each line after the first has one annotation value in: {0,1,2,3,4,5,6}. These values correspond to the emotions: {Neutral,Anger,Disgust,Fear,Happiness,Sadness,Surprise}. The annotation value can also be -1 (and you need to disregard).
+Again, there exist some videos in which there exist two subjects reacting to what they see, etc. Both subjects have been annotated and the corresponding annotation files are distinguished with the endings-extensions '_left' and '_right' as explained in the VA and AU cases above.
+
+
+
+If you have any question or experience any problem with the database or you want to evaluate your models on the Aff-Wild2's test sets, send an email to:  dimitrios.kollias15@imperial.ac.uk
+
+
 
 \section{人脸姿态估计}
 
@@ -1148,6 +1173,8 @@ for {\displaystyle \,k=1,\ldots ,N.} \,k=1,\ldots ,N. \nonumber
 如前所述，可以使用DLT解决方案找到姿态的近似估计（R和t）。改善DLT 解决方案的一种简单的方法是稍微随机地改变姿态（R和t），并检查重投影误差是否减少。如果是这样，我们就可以接受对姿态的新估计。我们可以一次又一次地扰动R和t来找到更好的估计。虽然这个程序会奏效，但是会很慢。事实上，有一些原则性的方法可以迭代地更改$R$ 和$t$的值，从而减少重投影误差。其中一种方法叫做\href{https://en.wikipedia.org/wiki/Levenberg%E2%80%93Marquardt_algorithm}{Levenberg-Marquardt 最优化}。
 
 \section{手势识别}
+
+
 
 \section{信号处理}
 

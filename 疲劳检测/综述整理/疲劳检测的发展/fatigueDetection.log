@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2021.2.24)  18 APR 2021 20:32
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2021.2.24)  10 MAY 2021 11:30
 entering extended mode
 **fatigueDetection.tex
 
@@ -3045,7 +3045,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
-[3] <figure/example/PEST.JPG, id=550, 595.023pt x 288.47775pt>
+[3] <figure/example/PEST.JPG, id=554, 595.023pt x 288.47775pt>
 File: figure/example/PEST.JPG Graphic file (type jpg)
 
 <use figure/example/PEST.JPG>
@@ -3053,7 +3053,7 @@ Package pdftex.def Info: figure/example/PEST.JPG used on input line 102.
 (pdftex.def)             Requested size: 361.34999pt x 175.19205pt.
  [4 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的发
 展/figure/example/PEST.JPG>]
-<figure/example/5W2H.JPG, id=572, 569.7285pt x 380.01974pt>
+<figure/example/5W2H.JPG, id=576, 569.7285pt x 380.01974pt>
 File: figure/example/5W2H.JPG Graphic file (type jpg)
 
 <use figure/example/5W2H.JPG>
@@ -3061,7 +3061,7 @@ Package pdftex.def Info: figure/example/5W2H.JPG used on input line 121.
 (pdftex.def)             Requested size: 361.34999pt x 241.02573pt.
  [5 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的发
 展/figure/example/5W2H.JPG>]
-<figure/example/logicTree.JPG, id=590, 377.61075pt x 304.13625pt>
+<figure/example/logicTree.JPG, id=594, 377.61075pt x 304.13625pt>
 File: figure/example/logicTree.JPG Graphic file (type jpg)
 
 <use figure/example/logicTree.JPG>
@@ -3069,14 +3069,14 @@ Package pdftex.def Info: figure/example/logicTree.JPG used on input line 144.
 (pdftex.def)             Requested size: 289.07999pt x 232.83981pt.
  [6 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的发
 展/figure/example/logicTree.JPG>]
-<figure/example/4P.JPG, id=606, 457.71pt x 364.36125pt>
+<figure/example/4P.JPG, id=610, 457.71pt x 364.36125pt>
 File: figure/example/4P.JPG Graphic file (type jpg)
 
 <use figure/example/4P.JPG>
 Package pdftex.def Info: figure/example/4P.JPG used on input line 175.
 (pdftex.def)             Requested size: 361.34999pt x 287.6643pt.
 
-<figure/example/user_behavior.JPG, id=608, 246.9225pt x 127.07475pt>
+<figure/example/user_behavior.JPG, id=612, 246.9225pt x 127.07475pt>
 File: figure/example/user_behavior.JPG Graphic file (type jpg)
 
 <use figure/example/user_behavior.JPG>
@@ -3088,7 +3088,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 200--201
 
  []
 
-<figure/example/user_behavior1.JPG, id=610, 567.92175pt x 506.49225pt>
+<figure/example/user_behavior1.JPG, id=614, 567.92175pt x 506.49225pt>
 File: figure/example/user_behavior1.JPG Graphic file (type jpg)
 
 <use figure/example/user_behavior1.JPG>
@@ -3121,7 +3121,7 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.54> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 417.
 
-<figure/example/nba.JPG, id=674, 1079.232pt x 460.72125pt>
+<figure/example/nba.JPG, id=678, 1079.232pt x 460.72125pt>
 File: figure/example/nba.JPG Graphic file (type jpg)
 
 <use figure/example/nba.JPG>
@@ -3132,7 +3132,7 @@ Package pdftex.def Info: figure/example/nba.JPG used on input line 430.
 Package hyperref Warning: Empty destination name,
 (hyperref)                using `UNDEFINED' on input line 443.
 
-<figure/example/dubang.png, id=685, 1273.1565pt x 608.87476pt>
+<figure/example/dubang.png, id=689, 1273.1565pt x 608.87476pt>
 File: figure/example/dubang.png Graphic file (type png)
 
 <use figure/example/dubang.png>
@@ -3143,7 +3143,7 @@ Package pdftex.def Info: figure/example/dubang.png used on input line 449.
 Package hyperref Warning: Empty destination name,
 (hyperref)                using `UNDEFINED' on input line 461.
 
-<figure/example/dubang1.png, id=689, 1202.091pt x 390.86024pt>
+<figure/example/dubang1.png, id=693, 1202.091pt x 390.86024pt>
 File: figure/example/dubang1.png Graphic file (type png)
 
 <use figure/example/dubang1.png>
@@ -3154,14 +3154,14 @@ Package pdftex.def Info: figure/example/dubang1.png used on input line 467.
 ��述整理/疲劳检测的发展/figure/example/dubang.png> <E:/KnowledgeDepos
 itory/Survey/疲劳检测/综述整理/疲劳检测的发展/figure/example/dub
 ang1.png>]
-<figure/example/loudou.JPG, id=706, 281.853pt x 177.66376pt>
+<figure/example/loudou.JPG, id=710, 281.853pt x 177.66376pt>
 File: figure/example/loudou.JPG Graphic file (type jpg)
 
 <use figure/example/loudou.JPG>
 Package pdftex.def Info: figure/example/loudou.JPG used on input line 492.
 (pdftex.def)             Requested size: 216.81pt x 136.66595pt.
 
-<figure/example/matrix.png, id=707, 417.35925pt x 316.7835pt>
+<figure/example/matrix.png, id=711, 417.35925pt x 316.7835pt>
 File: figure/example/matrix.png Graphic file (type png)
 
 <use figure/example/matrix.png>
@@ -3170,7 +3170,7 @@ Package pdftex.def Info: figure/example/matrix.png used on input line 515.
  [16 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
 �展/figure/example/loudou.JPG>] [17 <E:/KnowledgeDepository/Survey/疲劳检�
 �/综述整理/疲劳检测的发展/figure/example/matrix.png>] <figure/exampl
-e/matrix1.jpg, id=729, 355.3275pt x 274.626pt>
+e/matrix1.jpg, id=733, 355.3275pt x 274.626pt>
 File: figure/example/matrix1.jpg Graphic file (type jpg)
 
 <use figure/example/matrix1.jpg>
@@ -3178,14 +3178,14 @@ Package pdftex.def Info: figure/example/matrix1.jpg used on input line 551.
 (pdftex.def)             Requested size: 289.07999pt x 223.43059pt.
  [18 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
 �展/figure/example/matrix1.jpg>]
-<figure/example/matrix2.png, id=739, 460.119pt x 346.29375pt>
+<figure/example/matrix2.png, id=743, 460.119pt x 346.29375pt>
 File: figure/example/matrix2.png Graphic file (type png)
 
 <use figure/example/matrix2.png>
 Package pdftex.def Info: figure/example/matrix2.png used on input line 570.
 (pdftex.def)             Requested size: 289.07999pt x 217.5744pt.
 
-<figure/example/premium.png, id=741, 530.58224pt x 287.27325pt>
+<figure/example/premium.png, id=745, 530.58224pt x 287.27325pt>
 File: figure/example/premium.png Graphic file (type png)
 
 <use figure/example/premium.png>
@@ -3197,14 +3197,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [20 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
 �展/figure/example/premium.png>]
-<figure/example/ML_method.JPG, id=756, 1606.0pt x 891.33pt>
+<figure/example/ML_method.JPG, id=760, 1606.0pt x 891.33pt>
 File: figure/example/ML_method.JPG Graphic file (type jpg)
 
 <use figure/example/ML_method.JPG>
 Package pdftex.def Info: figure/example/ML_method.JPG used on input line 626.
 (pdftex.def)             Requested size: 361.34999pt x 200.54059pt.
 
-<figure/example/classify1.JPG, id=760, 519.1395pt x 362.5545pt>
+<figure/example/classify1.JPG, id=764, 519.1395pt x 362.5545pt>
 File: figure/example/classify1.JPG Graphic file (type jpg)
 
 <use figure/example/classify1.JPG>
@@ -3213,7 +3213,7 @@ Package pdftex.def Info: figure/example/classify1.JPG used on input line 638.
 Package CJKpunct Info: punctuation spaces for family 'zhkai' do not exist. Use 
 family 'def' instead. on input line 639.
 
-<figure/example/ML1.JPG, id=762, 738.3585pt x 369.7815pt>
+<figure/example/ML1.JPG, id=766, 738.3585pt x 369.7815pt>
 File: figure/example/ML1.JPG Graphic file (type jpg)
 
 <use figure/example/ML1.JPG>
@@ -3222,14 +3222,14 @@ Package pdftex.def Info: figure/example/ML1.JPG used on input line 649.
  [21 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
 �展/figure/example/ML_method.JPG> <E:/KnowledgeDepository/Survey/疲劳检测/
 综述整理/疲劳检测的发展/figure/example/classify1.JPG>]
-<figure/example/supervised.JPG, id=776, 1139.25626pt x 815.045pt>
+<figure/example/supervised.JPG, id=780, 1139.25626pt x 815.045pt>
 File: figure/example/supervised.JPG Graphic file (type jpg)
 
 <use figure/example/supervised.JPG>
 Package pdftex.def Info: figure/example/supervised.JPG used on input line 665.
 (pdftex.def)             Requested size: 361.34999pt x 258.50652pt.
 
-<figure/example/supervisedL.JPG, id=778, 762.4485pt x 271.0125pt>
+<figure/example/supervisedL.JPG, id=782, 762.4485pt x 271.0125pt>
 File: figure/example/supervisedL.JPG Graphic file (type jpg)
 
 <use figure/example/supervisedL.JPG>
@@ -3241,7 +3241,7 @@ Package pdftex.def Info: figure/example/supervisedL.JPG used on input line 676.
 ��述整理/疲劳检测的发展/figure/example/supervised.JPG> <E:/KnowledgeD
 epository/Survey/疲劳检测/综述整理/疲劳检测的发展/figure/example
 /supervisedL.JPG>]
-<figure/example/RL.JPG, id=796, 645.00975pt x 267.399pt>
+<figure/example/RL.JPG, id=800, 645.00975pt x 267.399pt>
 File: figure/example/RL.JPG Graphic file (type jpg)
 
 <use figure/example/RL.JPG>
@@ -3251,7 +3251,7 @@ Package CJKpunct Info: punctuation spaces for family 'zhhei' do not exist. Use
 family 'def' instead. on input line 714.
  [24 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
 �展/figure/example/RL.JPG>] [25]
-<figure/example/regression.JPG, id=830, 602.25pt x 481.8pt>
+<figure/example/regression.JPG, id=834, 602.25pt x 481.8pt>
 File: figure/example/regression.JPG Graphic file (type jpg)
 
 <use figure/example/regression.JPG>
@@ -3286,7 +3286,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 108--109
 
  []
 
-<figure/example/PPG.jpg, id=964, 266.1945pt x 200.54926pt>
+<figure/example/PPG.jpg, id=968, 266.1945pt x 200.54926pt>
 File: figure/example/PPG.jpg Graphic file (type jpg)
 
 <use figure/example/PPG.jpg>
@@ -3297,7 +3297,7 @@ Package pdftex.def Info: figure/example/PPG.jpg used on input line 114.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 127.
 
-<figure/example/eeg.jpg, id=975, 443.256pt x 348.70274pt>
+<figure/example/eeg.jpg, id=979, 443.256pt x 348.70274pt>
 File: figure/example/eeg.jpg Graphic file (type jpg)
 
 <use figure/example/eeg.jpg>
@@ -3306,7 +3306,7 @@ Package pdftex.def Info: figure/example/eeg.jpg used on input line 158.
  [40 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
 �展/figure/example/PPG.jpg>] [41 <E:/KnowledgeDepository/Survey/疲劳检测/�
 ��述整理/疲劳检测的发展/figure/example/eeg.jpg>] <figure/example/mult
-i_biological.jpg, id=1007, 213.1965pt x 187.902pt>
+i_biological.jpg, id=1011, 213.1965pt x 187.902pt>
 File: figure/example/multi_biological.jpg Graphic file (type jpg)
 
 <use figure/example/multi_biological.jpg>
@@ -3314,7 +3314,7 @@ Package pdftex.def Info: figure/example/multi_biological.jpg used on input line
  189.
 (pdftex.def)             Requested size: 144.54pt x 127.39606pt.
 
-<figure/example/biological.jpg, id=1009, 775.09575pt x 351.714pt>
+<figure/example/biological.jpg, id=1013, 775.09575pt x 351.714pt>
 File: figure/example/biological.jpg Graphic file (type jpg)
 
 <use figure/example/biological.jpg>
@@ -3324,7 +3324,7 @@ Package pdftex.def Info: figure/example/biological.jpg used on input line 203.
 �展/figure/example/multi_biological.jpg>]
 [43 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的发
 展/figure/example/biological.jpg>]
-<figure/example/physical.jpg, id=1038, 775.698pt x 384.2355pt>
+<figure/example/physical.jpg, id=1042, 775.698pt x 384.2355pt>
 File: figure/example/physical.jpg Graphic file (type jpg)
 
 <use figure/example/physical.jpg>
@@ -3332,7 +3332,7 @@ Package pdftex.def Info: figure/example/physical.jpg used on input line 239.
 (pdftex.def)             Requested size: 433.62pt x 214.78932pt.
  [44 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
 �展/figure/example/physical.jpg>] [45]
-<figure/example/vehicular.jpg, id=1064, 754.017pt x 308.95425pt>
+<figure/example/vehicular.jpg, id=1068, 754.017pt x 308.95425pt>
 File: figure/example/vehicular.jpg Graphic file (type jpg)
 
 <use figure/example/vehicular.jpg>
@@ -3340,21 +3340,21 @@ Package pdftex.def Info: figure/example/vehicular.jpg used on input line 276.
 (pdftex.def)             Requested size: 433.62pt x 177.6756pt.
  [46 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
 �展/figure/example/vehicular.jpg>]
-<figure/example/MFCC.png, id=1077, 455.45157pt x 276.28218pt>
+<figure/example/MFCC.png, id=1081, 455.45157pt x 276.28218pt>
 File: figure/example/MFCC.png Graphic file (type png)
 
 <use figure/example/MFCC.png>
 Package pdftex.def Info: figure/example/MFCC.png used on input line 304.
 (pdftex.def)             Requested size: 325.215pt x 197.2831pt.
 
-<figure/example/MFCC1.png, id=1079, 517.18219pt x 338.01282pt>
+<figure/example/MFCC1.png, id=1083, 517.18219pt x 338.01282pt>
 File: figure/example/MFCC1.png Graphic file (type png)
 
 <use figure/example/MFCC1.png>
 Package pdftex.def Info: figure/example/MFCC1.png used on input line 317.
 (pdftex.def)             Requested size: 325.215pt x 212.5572pt.
 
-<figure/example/MFCC2.png, id=1081, 556.0775pt x 82.3075pt>
+<figure/example/MFCC2.png, id=1085, 556.0775pt x 82.3075pt>
 File: figure/example/MFCC2.png Graphic file (type png)
 
 <use figure/example/MFCC2.png>
@@ -3365,7 +3365,7 @@ Package pdftex.def Info: figure/example/MFCC2.png used on input line 336.
 综述整理/疲劳检测的发展/figure/example/MFCC1.png> <E:/KnowledgeDepos
 itory/Survey/疲劳检测/综述整理/疲劳检测的发展/figure/example/MFC
 C2.png>]
-<figure/example/comparison.jpg, id=1109, 678.1335pt x 277.035pt>
+<figure/example/comparison.jpg, id=1113, 678.1335pt x 277.035pt>
 File: figure/example/comparison.jpg Graphic file (type jpg)
 
 <use figure/example/comparison.jpg>
@@ -3377,7 +3377,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [49]
 [50 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的发
 展/figure/example/comparison.jpg>]
-<figure/example/method.jpg, id=1129, 750.4035pt x 354.123pt>
+<figure/example/method.jpg, id=1133, 750.4035pt x 354.123pt>
 File: figure/example/method.jpg Graphic file (type jpg)
 
 <use figure/example/method.jpg>
@@ -3398,7 +3398,7 @@ Underfull \hbox (badness 5417) in paragraph at lines 440--440
  ? paperid =$
  []
 
-[53] <figure/example/landmark.jpg, id=1190, 1862.96pt x 1501.61pt>
+[53] <figure/example/landmark.jpg, id=1194, 1862.96pt x 1501.61pt>
 File: figure/example/landmark.jpg Graphic file (type jpg)
 
 <use figure/example/landmark.jpg>
@@ -3406,14 +3406,14 @@ Package pdftex.def Info: figure/example/landmark.jpg used on input line 473.
 (pdftex.def)             Requested size: 289.07999pt x 232.99919pt.
  [54 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
 �展/figure/example/landmark.jpg>]
-<figure/example/EAR.JPG, id=1200, 373.395pt x 274.626pt>
+<figure/example/EAR.JPG, id=1204, 373.395pt x 274.626pt>
 File: figure/example/EAR.JPG Graphic file (type jpg)
 
 <use figure/example/EAR.JPG>
 Package pdftex.def Info: figure/example/EAR.JPG used on input line 490.
 (pdftex.def)             Requested size: 289.07999pt x 212.62341pt.
 
-<figure/example/indicator.JPG, id=1204, 378.213pt x 269.20575pt>
+<figure/example/indicator.JPG, id=1208, 378.213pt x 269.20575pt>
 File: figure/example/indicator.JPG Graphic file (type jpg)
 
 <use figure/example/indicator.JPG>
@@ -3421,7 +3421,7 @@ Package pdftex.def Info: figure/example/indicator.JPG used on input line 518.
 (pdftex.def)             Requested size: 289.07999pt x 205.7733pt.
  [55 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
 �展/figure/example/EAR.JPG>]
-<figure/example/fatigueLevel.JPG, id=1225, 591.4095pt x 353.52075pt>
+<figure/example/fatigueLevel.JPG, id=1229, 591.4095pt x 353.52075pt>
 File: figure/example/fatigueLevel.JPG Graphic file (type jpg)
 
 <use figure/example/fatigueLevel.JPG>
@@ -3480,14 +3480,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 643--644
 
  []
 
-[59] <figure/example/NTHU1.jpg, id=1291, 492.6405pt x 98.16675pt>
+[59] <figure/example/NTHU1.jpg, id=1295, 492.6405pt x 98.16675pt>
 File: figure/example/NTHU1.jpg Graphic file (type jpg)
 
 <use figure/example/NTHU1.jpg>
 Package pdftex.def Info: figure/example/NTHU1.jpg used on input line 667.
 (pdftex.def)             Requested size: 361.34999pt x 72.00565pt.
 
-<figure/example/NTHU2.jpg, id=1292, 616.704pt x 96.36pt>
+<figure/example/NTHU2.jpg, id=1296, 616.704pt x 96.36pt>
 File: figure/example/NTHU2.jpg Graphic file (type jpg)
 
 <use figure/example/NTHU2.jpg>
@@ -3501,28 +3501,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 711--712
 
 [61 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的发
 展/figure/example/NTHU2.jpg>]
-<figure/example/researcher.jpg, id=1316, 557.08125pt x 447.47176pt>
+<figure/example/researcher.jpg, id=1320, 557.08125pt x 447.47176pt>
 File: figure/example/researcher.jpg Graphic file (type jpg)
 
 <use figure/example/researcher.jpg>
 Package pdftex.def Info: figure/example/researcher.jpg used on input line 730.
 (pdftex.def)             Requested size: 433.62pt x 348.30963pt.
 
-<figure/example/female.jpg, id=1317, 492.03825pt x 330.63525pt>
+<figure/example/female.jpg, id=1321, 492.03825pt x 330.63525pt>
 File: figure/example/female.jpg Graphic file (type jpg)
 
 <use figure/example/female.jpg>
 Package pdftex.def Info: figure/example/female.jpg used on input line 741.
 (pdftex.def)             Requested size: 289.07999pt x 194.25076pt.
 
-<figure/example/male.jpg, id=1318, 493.24275pt x 301.125pt>
+<figure/example/male.jpg, id=1322, 493.24275pt x 301.125pt>
 File: figure/example/male.jpg Graphic file (type jpg)
 
 <use figure/example/male.jpg>
 Package pdftex.def Info: figure/example/male.jpg used on input line 752.
 (pdftex.def)             Requested size: 289.07999pt x 176.49052pt.
 
-<figure/example/dowzy.jpg, id=1319, 794.36775pt x 197.538pt>
+<figure/example/dowzy.jpg, id=1323, 794.36775pt x 197.538pt>
 File: figure/example/dowzy.jpg Graphic file (type jpg)
 
 <use figure/example/dowzy.jpg>
@@ -3534,14 +3534,14 @@ Package pdftex.def Info: figure/example/dowzy.jpg used on input line 763.
 geDepository/Survey/疲劳检测/综述整理/疲劳检测的发展/figure/exam
 ple/male.jpg> <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳�
 �测的发展/figure/example/dowzy.jpg>]
-<figure/example/drozy.jpg, id=1337, 556.479pt x 192.11775pt>
+<figure/example/drozy.jpg, id=1341, 556.479pt x 192.11775pt>
 File: figure/example/drozy.jpg Graphic file (type jpg)
 
 <use figure/example/drozy.jpg>
 Package pdftex.def Info: figure/example/drozy.jpg used on input line 810.
 (pdftex.def)             Requested size: 361.34999pt x 124.75192pt.
 
-<figure/example/model.jpg, id=1339, 507.69675pt x 313.77225pt>
+<figure/example/model.jpg, id=1343, 507.69675pt x 313.77225pt>
 File: figure/example/model.jpg Graphic file (type jpg)
 
 <use figure/example/model.jpg>
@@ -3634,7 +3634,7 @@ l.92 ...et/qq_29566629/article/details/100183924}}
 l.92 ...et/qq_29566629/article/details/100183924}}
                                                   
 ? 
-[73] [74] <figure/example/pca1.jpg, id=1531, 274.02374pt x 248.127pt>
+[73] [74] <figure/example/pca1.jpg, id=1535, 274.02374pt x 248.127pt>
 File: figure/example/pca1.jpg Graphic file (type jpg)
 
 <use figure/example/pca1.jpg>
@@ -3657,7 +3657,7 @@ m/m/n/10.54/5d � \C70/rm/m/n/10.54/96 5$[]$ \C70/rm/m/n/10.54/76 � \C70/rm/m/n/
 Missing character: There is no � in font cmr10!
 Missing character: There is no � in font cmr10!
 Missing character: There is no � in font cmr10!
-<figure/example/pca.jpg, id=1547, 541.42274pt x 214.401pt>
+<figure/example/pca.jpg, id=1551, 541.42274pt x 214.401pt>
 File: figure/example/pca.jpg Graphic file (type jpg)
 
 <use figure/example/pca.jpg>
@@ -3710,7 +3710,7 @@ Underfull \hbox (badness 6493) in paragraph at lines 262--262
 p / 27899927 ? group _ id =$
  []
 
-<figure/example/LDA1.png, id=1714, 347.2975pt x 311.1625pt>
+<figure/example/LDA1.png, id=1718, 347.2975pt x 311.1625pt>
 File: figure/example/LDA1.png Graphic file (type png)
 
 <use figure/example/LDA1.png>
@@ -3718,7 +3718,7 @@ Package pdftex.def Info: figure/example/LDA1.png used on input line 266.
 (pdftex.def)             Requested size: 252.94499pt x 226.63396pt.
  [80 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
 �展/figure/example/LDA1.png>]
-<figure/example/LDA.png, id=1725, 899.36pt x 340.27126pt>
+<figure/example/LDA.png, id=1729, 899.36pt x 340.27126pt>
 File: figure/example/LDA.png Graphic file (type png)
 
 <use figure/example/LDA.png>
@@ -3729,7 +3729,7 @@ Package pdftex.def Info: figure/example/LDA.png used on input line 293.
 Package hyperref Warning: Empty destination name,
 (hyperref)                using `UNDEFINED' on input line 300.
 
-<figure/example/LDA2.png, id=1728, 281.05pt x 218.8175pt>
+<figure/example/LDA2.png, id=1732, 281.05pt x 218.8175pt>
 File: figure/example/LDA2.png Graphic file (type png)
 
 <use figure/example/LDA2.png>
@@ -3747,14 +3747,14 @@ hive / 2011 / 04 / 21 /$
 
 [82 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的发
 展/figure/example/LDA2.png>]
-<figure/example/LDA3.png, id=1752, 344.28625pt x 240.9pt>
+<figure/example/LDA3.png, id=1756, 344.28625pt x 240.9pt>
 File: figure/example/LDA3.png Graphic file (type png)
 
 <use figure/example/LDA3.png>
 Package pdftex.def Info: figure/example/LDA3.png used on input line 396.
 (pdftex.def)             Requested size: 252.94499pt x 176.98769pt.
  [83]
-<figure/example/LDA4.png, id=1772, 277.035pt x 256.70906pt>
+<figure/example/LDA4.png, id=1776, 277.035pt x 256.70906pt>
 File: figure/example/LDA4.png Graphic file (type png)
 
 <use figure/example/LDA4.png>
@@ -3791,7 +3791,7 @@ l.432 ]{./code/LDA.py}
 code\LDA.py [85]
 Missing character: There is no  in font unifs22!
 )
-<figure/example/LDA6.jpg, id=1836, 808.82175pt x 416.15475pt>
+<figure/example/LDA6.jpg, id=1840, 808.82175pt x 416.15475pt>
 File: figure/example/LDA6.jpg Graphic file (type jpg)
 
 <use figure/example/LDA6.jpg>
@@ -3801,7 +3801,7 @@ Package pdftex.def Info: figure/example/LDA6.jpg used on input line 440.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [86]
-<figure/example/PCAAndLDA.jpg, id=1894, 417.05812pt x 316.93407pt>
+<figure/example/PCAAndLDA.jpg, id=1898, 417.05812pt x 316.93407pt>
 File: figure/example/PCAAndLDA.jpg Graphic file (type jpg)
 
 <use figure/example/PCAAndLDA.jpg>
@@ -3810,7 +3810,7 @@ Package pdftex.def Info: figure/example/PCAAndLDA.jpg used on input line 453.
  [87 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
 �展/figure/example/LDA6.jpg> <E:/KnowledgeDepository/Survey/疲劳检测/综�
 �整理/疲劳检测的发展/figure/example/PCAAndLDA.jpg>] [88]
-<figure/example/CFS.png, id=1915, 740.7675pt x 633.36626pt>
+<figure/example/CFS.png, id=1919, 740.7675pt x 633.36626pt>
 File: figure/example/CFS.png Graphic file (type png)
 
 <use figure/example/CFS.png>
@@ -3900,7 +3900,7 @@ l.593 ...�离是$\frac{2}{||\overrightarrow{w}||}}
                                                   $，如图\href{figure:3-1...
 
 ? 
-<figure/example/SVM.png, id=2043, 803.0pt x 865.2325pt>
+<figure/example/SVM.png, id=2047, 803.0pt x 865.2325pt>
 File: figure/example/SVM.png Graphic file (type png)
 
 <use figure/example/SVM.png>
@@ -3953,7 +3953,7 @@ LaTeX Warning: No positions in optional float specifier.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 770.
 
-[97] <figure/example/ConfusionMatrix1.png, id=2144, 467.94826pt x 464.33475pt>
+[97] <figure/example/ConfusionMatrix1.png, id=2148, 467.94826pt x 464.33475pt>
 File: figure/example/ConfusionMatrix1.png Graphic file (type png)
 
 <use figure/example/ConfusionMatrix1.png>
@@ -3962,14 +3962,14 @@ Package pdftex.def Info: figure/example/ConfusionMatrix1.png used on input line
 (pdftex.def)             Requested size: 325.215pt x 322.70816pt.
  [98 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
 �展/figure/example/ConfusionMatrix1.png>] [99] [100] <figure/example/ROC.png, 
-id=2191, 389.65575pt x 283.65974pt>
+id=2195, 389.65575pt x 283.65974pt>
 File: figure/example/ROC.png Graphic file (type png)
 
 <use figure/example/ROC.png>
 Package pdftex.def Info: figure/example/ROC.png used on input line 868.
 (pdftex.def)             Requested size: 289.07999pt x 210.45894pt.
 
-<figure/example/ROC2.png, id=2195, 499.8675pt x 290.2845pt>
+<figure/example/ROC2.png, id=2199, 499.8675pt x 290.2845pt>
 File: figure/example/ROC2.png Graphic file (type png)
 
 <use figure/example/ROC2.png>
@@ -3977,7 +3977,7 @@ Package pdftex.def Info: figure/example/ROC2.png used on input line 887.
 (pdftex.def)             Requested size: 325.215pt x 188.86429pt.
  [101 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
 ��展/figure/example/ROC.png>]
-<figure/example/ROC3.png, id=2207, 481.8pt x 373.99725pt>
+<figure/example/ROC3.png, id=2211, 481.8pt x 373.99725pt>
 File: figure/example/ROC3.png Graphic file (type png)
 
 <use figure/example/ROC3.png>
@@ -3986,7 +3986,7 @@ Package pdftex.def Info: figure/example/ROC3.png used on input line 894.
  [102 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
 ��展/figure/example/ROC2.png> <E:/KnowledgeDepository/Survey/疲劳检测/综�
 ��整理/疲劳检测的发展/figure/example/ROC3.png>] <figure/example/ROC4.p
-ng, id=2217, 442.65375pt x 383.031pt>
+ng, id=2221, 442.65375pt x 383.031pt>
 File: figure/example/ROC4.png Graphic file (type png)
 
 <use figure/example/ROC4.png>
@@ -4001,7 +4001,7 @@ tex/chapter4.tex [104
 
 ]
 第四章
-<figure/example/faceDetection.JPG, id=2231, 516.7305pt x 264.99pt>
+<figure/example/faceDetection.JPG, id=2235, 516.7305pt x 264.99pt>
 File: figure/example/faceDetection.JPG Graphic file (type jpg)
 
 <use figure/example/faceDetection.JPG>
@@ -4024,7 +4024,7 @@ Runaway argument?
 l.78 
      
 ? 
-<figure/example/faceAligment.JPG, id=2252, 693.18974pt x 246.32025pt>
+<figure/example/faceAligment.JPG, id=2256, 693.18974pt x 246.32025pt>
 File: figure/example/faceAligment.JPG Graphic file (type jpg)
 
 <use figure/example/faceAligment.JPG>
@@ -4036,7 +4036,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [108 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
 ��展/figure/example/faceAligment.JPG>]
-<figure/example/p_net.jpg, id=2272, 463.13025pt x 178.86826pt>
+<figure/example/p_net.jpg, id=2276, 463.13025pt x 178.86826pt>
 File: figure/example/p_net.jpg Graphic file (type jpg)
 
 <use figure/example/p_net.jpg>
@@ -4044,21 +4044,21 @@ Package pdftex.def Info: figure/example/p_net.jpg used on input line 171.
 (pdftex.def)             Requested size: 289.07999pt x 111.64772pt.
  [109 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
 ��展/figure/example/p_net.jpg>]
-<figure/example/R_net.jpg, id=2284, 472.164pt x 175.857pt>
+<figure/example/R_net.jpg, id=2288, 472.164pt x 175.857pt>
 File: figure/example/R_net.jpg Graphic file (type jpg)
 
 <use figure/example/R_net.jpg>
 Package pdftex.def Info: figure/example/R_net.jpg used on input line 189.
 (pdftex.def)             Requested size: 289.07999pt x 107.66705pt.
 
-<figure/example/O_net.jpg, id=2285, 739.563pt x 158.994pt>
+<figure/example/O_net.jpg, id=2289, 739.563pt x 158.994pt>
 File: figure/example/O_net.jpg Graphic file (type jpg)
 
 <use figure/example/O_net.jpg>
 Package pdftex.def Info: figure/example/O_net.jpg used on input line 206.
 (pdftex.def)             Requested size: 361.34999pt x 77.68697pt.
 
-<figure/example/MTCNN.JPG, id=2287, 421.575pt x 484.81125pt>
+<figure/example/MTCNN.JPG, id=2291, 421.575pt x 484.81125pt>
 File: figure/example/MTCNN.JPG Graphic file (type jpg)
 
 <use figure/example/MTCNN.JPG>
@@ -4069,7 +4069,7 @@ Package pdftex.def Info: figure/example/MTCNN.JPG used on input line 219.
 述整理/疲劳检测的发展/figure/example/O_net.jpg>] [111 <E:/KnowledgeDe
 pository/Survey/疲劳检测/综述整理/疲劳检测的发展/figure/example/
 MTCNN.JPG>] [112]
-<figure/example/AUExp1.jpg, id=2318, 582.175pt x 629.35126pt>
+<figure/example/AUExp1.jpg, id=2322, 582.175pt x 629.35126pt>
 File: figure/example/AUExp1.jpg Graphic file (type jpg)
 
 <use figure/example/AUExp1.jpg>
@@ -4086,14 +4086,14 @@ Overfull \hbox (27.92168pt too wide) in paragraph at lines 312--393
  [][] 
  []
 
-[114] <figure/example/AU4.JPG, id=2339, 357.13425pt x 321.6015pt>
+[114] <figure/example/AU4.JPG, id=2343, 357.13425pt x 321.6015pt>
 File: figure/example/AU4.JPG Graphic file (type jpg)
 
 <use figure/example/AU4.JPG>
 Package pdftex.def Info: figure/example/AU4.JPG used on input line 402.
 (pdftex.def)             Requested size: 289.07999pt x 260.32402pt.
 
-<figure/example/FER.jpg, id=2341, 1099.7085pt x 496.254pt>
+<figure/example/FER.jpg, id=2345, 1099.7085pt x 496.254pt>
 File: figure/example/FER.jpg Graphic file (type jpg)
 
 <use figure/example/FER.jpg>
@@ -4132,7 +4132,7 @@ m/m/n/7.53/89 � \C70/rm/m/n/7.53/98 � \C70/rm/m/n/7.53/60 � \C70/rm/m/n/7.53/61
 / / xueshu . baidu . com / usercenter / paper / show ? paperid =$
  []
 
-[119] <figure/example/BVP_emotion.jpg, id=2421, 436.63126pt x 221.628pt>
+[119] <figure/example/BVP_emotion.jpg, id=2425, 436.63126pt x 221.628pt>
 File: figure/example/BVP_emotion.jpg Graphic file (type jpg)
 
 <use figure/example/BVP_emotion.jpg>
@@ -4141,7 +4141,7 @@ Package pdftex.def Info: figure/example/BVP_emotion.jpg used on input line 523.
 (pdftex.def)             Requested size: 325.215pt x 165.07417pt.
  [120 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
 ��展/figure/example/BVP_emotion.jpg>]
-[121] <figure/example/faceExpression.png, id=2466, 599.23875pt x 181.27725pt>
+[121] <figure/example/faceExpression.png, id=2470, 599.23875pt x 181.27725pt>
 File: figure/example/faceExpression.png Graphic file (type png)
 
 <use figure/example/faceExpression.png>
@@ -4223,7 +4223,7 @@ Type  H <return>  for immediate help.
 l.555 ...or the Noldus FaceReader.\end{flushleft}}
                                                   
 ? 
-<figure/example/faceExpression1.png, id=2467, 595.023pt x 258.36525pt>
+<figure/example/faceExpression1.png, id=2471, 595.023pt x 258.36525pt>
 File: figure/example/faceExpression1.png Graphic file (type png)
 
 <use figure/example/faceExpression1.png>
@@ -4310,7 +4310,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 569--570
 
  []
 
-<figure/example/faceExpression2.png, id=2469, 592.01175pt x 134.30174pt>
+<figure/example/faceExpression2.png, id=2473, 592.01175pt x 134.30174pt>
 File: figure/example/faceExpression2.png Graphic file (type png)
 
 <use figure/example/faceExpression2.png>
@@ -4411,7 +4411,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 580--581
 �劳检测/综述整理/疲劳检测的发展/figure/example/faceExpression1.pn
 g> <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的发�
 ��/figure/example/faceExpression2.png>]
-<figure/example/faceExpression3.png, id=2488, 498.663pt x 148.75575pt>
+<figure/example/faceExpression3.png, id=2492, 498.663pt x 148.75575pt>
 File: figure/example/faceExpression3.png Graphic file (type png)
 
 <use figure/example/faceExpression3.png>
@@ -4498,7 +4498,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 597--598
 
  []
 
-<figure/example/faceExpression4.png, id=2490, 601.64775pt x 152.36925pt>
+<figure/example/faceExpression4.png, id=2494, 601.64775pt x 152.36925pt>
 File: figure/example/faceExpression4.png Graphic file (type png)
 
 <use figure/example/faceExpression4.png>
@@ -4580,7 +4580,7 @@ Type  H <return>  for immediate help.
 l.602 ...the default for Py-Feat. \end{flushleft}}
                                                   
 ? 
-<figure/example/faceExpression5.png, id=2492, 602.25pt x 169.8345pt>
+<figure/example/faceExpression5.png, id=2496, 602.25pt x 169.8345pt>
 File: figure/example/faceExpression5.png Graphic file (type png)
 
 <use figure/example/faceExpression5.png>
@@ -4681,123 +4681,180 @@ Underfull \hbox (badness 10000) in paragraph at lines 631--632
 
  []
 
-<figure/example/PnP2.jpg, id=2511, 382.42876pt x 435.42674pt>
+<figure/example/Aff-Wild3.png, id=2514, 396.7322pt x 381.67593pt>
+File: figure/example/Aff-Wild3.png Graphic file (type png)
+
+<use figure/example/Aff-Wild3.png>
+Package pdftex.def Info: figure/example/Aff-Wild3.png used on input line 648.
+(pdftex.def)             Requested size: 180.67499pt x 173.82007pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 653--654
+
+ []
+
+! Misplaced alignment tab character &.
+<argument> ...ignorespaces A Multi-Task Learning &
+                                                   Generation Framework: Val...
+l.660 ...d \url{https://arxiv.org/abs/1811.07771}}
+                                                  。
+? 
+! Misplaced alignment tab character &.
+<argument> ...ork: Valence-Arousal, Action Units &
+                                                   Primary Expressions \quad...
+l.660 ...d \url{https://arxiv.org/abs/1811.07771}}
+                                                  。
+? 
+<figure/example/Aff-Wild1.jpg, id=2520, 374.5995pt x 235.47975pt>
+File: figure/example/Aff-Wild1.jpg Graphic file (type jpg)
+
+<use figure/example/Aff-Wild1.jpg>
+Package pdftex.def Info: figure/example/Aff-Wild1.jpg used on input line 665.
+(pdftex.def)             Requested size: 289.07999pt x 181.7224pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 670--671
+
+ []
+
+[126] [127 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检�
+�的发展/figure/example/Aff-Wild3.png> <E:/KnowledgeDepository/Survey/疲劳�
+��测/综述整理/疲劳检测的发展/figure/example/Aff-Wild1.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 676--677
+
+ []
+
+<figure/example/Aff-Wild2.jpg, id=2537, 370.38374pt x 90.93974pt>
+File: figure/example/Aff-Wild2.jpg Graphic file (type jpg)
+
+<use figure/example/Aff-Wild2.jpg>
+Package pdftex.def Info: figure/example/Aff-Wild2.jpg used on input line 684.
+(pdftex.def)             Requested size: 289.07999pt x 70.97849pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 689--690
+
+ []
+
+[128 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
+�展/figure/example/Aff-Wild2.jpg>]
+<figure/example/PnP2.jpg, id=2545, 382.42876pt x 435.42674pt>
 File: figure/example/PnP2.jpg Graphic file (type jpg)
 
 <use figure/example/PnP2.jpg>
-Package pdftex.def Info: figure/example/PnP2.jpg used on input line 650.
+Package pdftex.def Info: figure/example/PnP2.jpg used on input line 707.
 (pdftex.def)             Requested size: 216.81pt x 246.85371pt.
 
-<figure/example/PnP3.jpg, id=2512, 565.51276pt x 377.61075pt>
+<figure/example/PnP3.jpg, id=2546, 565.51276pt x 377.61075pt>
 File: figure/example/PnP3.jpg Graphic file (type jpg)
 
 <use figure/example/PnP3.jpg>
-Package pdftex.def Info: figure/example/PnP3.jpg used on input line 657.
+Package pdftex.def Info: figure/example/PnP3.jpg used on input line 714.
 (pdftex.def)             Requested size: 216.81pt x 144.7727pt.
- [126] [127 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检�
-��的发展/figure/example/PnP2.jpg> <E:/KnowledgeDepository/Survey/疲劳检�
-�/综述整理/疲劳检测的发展/figure/example/PnP3.jpg>] <figure/example/
-PnP.jpg, id=2527, 432.4155pt x 357.13425pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [129 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
+��展/figure/example/PnP2.jpg> <E:/KnowledgeDepository/Survey/疲劳检测/综�
+��整理/疲劳检测的发展/figure/example/PnP3.jpg>]
+<figure/example/PnP.jpg, id=2556, 432.4155pt x 357.13425pt>
 File: figure/example/PnP.jpg Graphic file (type jpg)
 
 <use figure/example/PnP.jpg>
-Package pdftex.def Info: figure/example/PnP.jpg used on input line 673.
+Package pdftex.def Info: figure/example/PnP.jpg used on input line 730.
 (pdftex.def)             Requested size: 289.07999pt x 238.75555pt.
-
-<figure/example/Camera1.jpg, id=2531, 259.56975pt x 108.405pt>
+ [130 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
+��展/figure/example/PnP.jpg>]
+<figure/example/Camera1.jpg, id=2568, 259.56975pt x 108.405pt>
 File: figure/example/Camera1.jpg Graphic file (type jpg)
 
 <use figure/example/Camera1.jpg>
-Package pdftex.def Info: figure/example/Camera1.jpg used on input line 693.
+Package pdftex.def Info: figure/example/Camera1.jpg used on input line 750.
 (pdftex.def)             Requested size: 216.81pt x 90.54845pt.
- [128 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
-��展/figure/example/PnP.jpg>]
-<figure/example/Camera2.jpg, id=2541, 727.96968pt x 417.05812pt>
+
+<figure/example/Camera2.jpg, id=2570, 727.96968pt x 417.05812pt>
 File: figure/example/Camera2.jpg Graphic file (type jpg)
 
 <use figure/example/Camera2.jpg>
-Package pdftex.def Info: figure/example/Camera2.jpg used on input line 708.
+Package pdftex.def Info: figure/example/Camera2.jpg used on input line 765.
 (pdftex.def)             Requested size: 216.81pt x 124.20837pt.
 
-<figure/example/Camera3.jpg, id=2543, 490.83376pt x 243.91125pt>
+<figure/example/Camera3.jpg, id=2572, 490.83376pt x 243.91125pt>
 File: figure/example/Camera3.jpg Graphic file (type jpg)
 
 <use figure/example/Camera3.jpg>
-Package pdftex.def Info: figure/example/Camera3.jpg used on input line 716.
+Package pdftex.def Info: figure/example/Camera3.jpg used on input line 773.
 (pdftex.def)             Requested size: 216.81pt x 107.73811pt.
- [129 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
+ [131 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
 ��展/figure/example/Camera1.jpg> <E:/KnowledgeDepository/Survey/疲劳检测/�
 ��述整理/疲劳检测的发展/figure/example/Camera2.jpg>]
-<figure/example/Camera5.jpg, id=2558, 237.88875pt x 203.5605pt>
+<figure/example/Camera5.jpg, id=2587, 237.88875pt x 203.5605pt>
 File: figure/example/Camera5.jpg Graphic file (type jpg)
 
 <use figure/example/Camera5.jpg>
-Package pdftex.def Info: figure/example/Camera5.jpg used on input line 734.
+Package pdftex.def Info: figure/example/Camera5.jpg used on input line 791.
 (pdftex.def)             Requested size: 180.67499pt x 154.61128pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 742--742
+Underfull \hbox (badness 10000) in paragraph at lines 799--799
 [][]\OT1/cmr/m/n/7.53 Head Pose Es-ti-ma-tion us-ing OpenCV and Dlib  [][]$\OT1
 /cmtt/m/n/7.53 https : / / learnopencv . com /$
  []
 
-[130 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
+[132 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
 �展/figure/example/Camera3.jpg> <E:/KnowledgeDepository/Survey/疲劳检测/�
 �述整理/疲劳检测的发展/figure/example/Camera5.jpg>]
 ! Illegal parameter number in definition of \Hy@tempa.
 <to be read again> 
                    E
-l.751 ...pedia.org/wiki/Rotation_matrix#Examples}}
+l.808 ...pedia.org/wiki/Rotation_matrix#Examples}}
                                                   ：
 ? 
 ! Illegal parameter number in definition of \Hy@tempa.
 <to be read again> 
                    E
-l.751 ...pedia.org/wiki/Rotation_matrix#Examples}}
+l.808 ...pedia.org/wiki/Rotation_matrix#Examples}}
                                                   ：
 ? 
-[131]
-Underfull \hbox (badness 10000) in paragraph at lines 764--765
+[133]
+Underfull \hbox (badness 10000) in paragraph at lines 821--822
 
  []
 
-[132] <figure/example/DCM.jpg, id=2605, 186.6975pt x 167.4255pt>
+[134] <figure/example/DCM.jpg, id=2634, 186.6975pt x 167.4255pt>
 File: figure/example/DCM.jpg Graphic file (type jpg)
 
 <use figure/example/DCM.jpg>
-Package pdftex.def Info: figure/example/DCM.jpg used on input line 801.
+Package pdftex.def Info: figure/example/DCM.jpg used on input line 858.
 (pdftex.def)             Requested size: 180.67499pt x 162.03209pt.
- [133 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
+ [135 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
 ��展/figure/example/DCM.jpg>]
-<figure/example/Camera4.jpg, id=2617, 189.1065pt x 125.268pt>
+<figure/example/Camera4.jpg, id=2646, 189.1065pt x 125.268pt>
 File: figure/example/Camera4.jpg Graphic file (type jpg)
 
 <use figure/example/Camera4.jpg>
-Package pdftex.def Info: figure/example/Camera4.jpg used on input line 842.
+Package pdftex.def Info: figure/example/Camera4.jpg used on input line 899.
 (pdftex.def)             Requested size: 144.54pt x 95.75133pt.
- [134 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
-��展/figure/example/Camera4.jpg>] [135]
-Underfull \hbox (badness 10000) in paragraph at lines 988--988
+ [136 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
+��展/figure/example/Camera4.jpg>] [137]
+Underfull \hbox (badness 10000) in paragraph at lines 1045--1045
 [][]\OT1/cmr/m/n/7.53 Head Pose Es-ti-ma-tion us-ing OpenCV and Dlib  [][]$\OT1
 /cmtt/m/n/7.53 https : / / learnopencv . com /$
  []
 
-<figure/example/3DPose1.jpg, id=2641, 596.2275pt x 423.5825pt>
+<figure/example/3DPose1.jpg, id=2670, 596.2275pt x 423.5825pt>
 File: figure/example/3DPose1.jpg Graphic file (type jpg)
 
 <use figure/example/3DPose1.jpg>
-Package pdftex.def Info: figure/example/3DPose1.jpg used on input line 992.
+Package pdftex.def Info: figure/example/3DPose1.jpg used on input line 1049.
 (pdftex.def)             Requested size: 252.94499pt x 179.70024pt.
- [136 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
+ [138 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
 ��展/figure/example/3DPose1.jpg>]
-<figure/example/3DPose.jpg, id=2651, 770.88pt x 484.81125pt>
+<figure/example/3DPose.jpg, id=2681, 770.88pt x 484.81125pt>
 File: figure/example/3DPose.jpg Graphic file (type jpg)
 
 <use figure/example/3DPose.jpg>
-Package pdftex.def Info: figure/example/3DPose.jpg used on input line 1021.
+Package pdftex.def Info: figure/example/3DPose.jpg used on input line 1078.
 (pdftex.def)             Requested size: 325.215pt x 204.52924pt.
- [137 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
+ [139 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
 ��展/figure/example/3DPose.jpg>]
-Overfull \hbox (13.97716pt too wide) in paragraph at lines 1050--1051
+Overfull \hbox (13.97716pt too wide) in paragraph at lines 1107--1108
 []\C70/rm/m/n/10.54/59 � \C70/rm/m/n/10.54/67 � \C70/rm/m/n/10.54/62  \C70/rm/
 m/n/10.54/4e � \C70/rm/m/n/10.54/77 � \C70/rm/m/n/10.54/90 S \C70/rm/m/n/10.54/
 8d � \C70/rm/m/n/10.54/59  \C70/rm/m/n/10.54/65 p \C70/rm/m/n/10.54/91 � \C70/
@@ -4813,60 +4870,57 @@ cmr/m/n/10.54 )$\C70/rm/m/n/10.54/76 �
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1050--1051
+Underfull \hbox (badness 10000) in paragraph at lines 1107--1108
 
  []
 
-[138]
-Underfull \hbox (badness 10000) in paragraph at lines 1138--1139
+[140]
+Underfull \hbox (badness 10000) in paragraph at lines 1195--1196
 
  []
 
-[139] [140] [141]
-<figure/example/BVP1.jpg, id=2726, 464.33475pt x 172.84575pt>
+[141] [142] [143]
+<figure/example/BVP1.jpg, id=2754, 464.33475pt x 172.84575pt>
 File: figure/example/BVP1.jpg Graphic file (type jpg)
 
 <use figure/example/BVP1.jpg>
-Package pdftex.def Info: figure/example/BVP1.jpg used on input line 1201.
+Package pdftex.def Info: figure/example/BVP1.jpg used on input line 1262.
 (pdftex.def)             Requested size: 325.215pt x 121.0624pt.
 
-<figure/example/BVP2.jpg, id=2727, 711.8595pt x 304.7385pt>
+<figure/example/BVP2.jpg, id=2755, 711.8595pt x 304.7385pt>
 File: figure/example/BVP2.jpg Graphic file (type jpg)
 
 <use figure/example/BVP2.jpg>
-Package pdftex.def Info: figure/example/BVP2.jpg used on input line 1214.
+Package pdftex.def Info: figure/example/BVP2.jpg used on input line 1275.
 (pdftex.def)             Requested size: 397.48499pt x 170.1595pt.
 
-Underfull \vbox (badness 1762) has occurred while \output is active []
+Underfull \vbox (badness 2689) has occurred while \output is active []
 
- [142 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
-��展/figure/example/BVP1.jpg> <E:/KnowledgeDepository/Survey/疲劳检测/综�
-��整理/疲劳检测的发展/figure/example/BVP2.jpg>]
-Underfull \vbox (badness 1014) has occurred while \output is active []
-
- [143]
+ [144 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
+��展/figure/example/BVP1.jpg>] [145 <E:/KnowledgeDepository/Survey/疲劳检�
+�/综述整理/疲劳检测的发展/figure/example/BVP2.jpg>]
 
 Package hyperref Warning: Empty destination name,
-(hyperref)                using `UNDEFINED' on input line 1255.
+(hyperref)                using `UNDEFINED' on input line 1316.
 
-) [144]
+) [146]
 (E:\KnowledgeDepository\Survey\疲劳检测\综述整理\疲劳检测的发展\
 tex/chapter5.tex
 Missing character: There is no � in font unisongfe!
- [145
+ [147
 
 
-] [146
+] [148
 
 ]
 第五章
-[147] <figure/example/test.pdf, id=2782, 984.28629pt x 416.20695pt>
+[149] <figure/example/test.pdf, id=2811, 984.28629pt x 416.20695pt>
 File: figure/example/test.pdf Graphic file (type pdf)
 
 <use figure/example/test.pdf>
 Package pdftex.def Info: figure/example/test.pdf used on input line 65.
 (pdftex.def)             Requested size: 361.34999pt x 152.79385pt.
- [148]
+ [150]
 
 ! LaTeX Error: Environment observation undefined.
 
@@ -5068,7 +5122,7 @@ Type  H <return>  for immediate help.
 l.134 \begin{mydef}
                    {域}{1}
 ? 
-[149 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
+[151 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
 �展/figure/example/test.pdf>]
 
 ! LaTeX Error: \begin{CJK*} on input line 27 ended by \end{mydef}.
@@ -5101,31 +5155,31 @@ l.151 \end{mythm}
                  
 ? 
 
-LaTeX Warning: Reference `thm:2' on page 150 undefined on input line 155.
+LaTeX Warning: Reference `thm:2' on page 152 undefined on input line 155.
 
 
-LaTeX Warning: Reference `def:1' on page 150 undefined on input line 161.
+LaTeX Warning: Reference `def:1' on page 152 undefined on input line 161.
 
 
 Overfull \hbox (4.59393pt too wide) in paragraph at lines 197--197
 []|\OT1/cmr/m/n/10.54 total|  
  []
 
-<figure/example/by-nc.png, id=2819, 97.0827pt x 33.9669pt>
+<figure/example/by-nc.png, id=2849, 97.0827pt x 33.9669pt>
 File: figure/example/by-nc.png Graphic file (type png)
 
 <use figure/example/by-nc.png>
 Package pdftex.def Info: figure/example/by-nc.png used on input line 220.
 (pdftex.def)             Requested size: 113.81102pt x 39.82144pt.
 
-<figure/example/gzh.jpg, id=2820, 431.6125pt x 431.6125pt>
+<figure/example/gzh.jpg, id=2850, 431.6125pt x 431.6125pt>
 File: figure/example/gzh.jpg Graphic file (type jpg)
 
 <use figure/example/gzh.jpg>
 Package pdftex.def Info: figure/example/gzh.jpg used on input line 222.
 (pdftex.def)             Requested size: 113.81102pt x 113.81038pt.
- [150]
-<figure/example/m2.pdf, id=2834, 728.20053pt x 711.77919pt>
+ [152]
+<figure/example/m2.pdf, id=2863, 728.20053pt x 711.77919pt>
 File: figure/example/m2.pdf Graphic file (type pdf)
 
 <use figure/example/m2.pdf>
@@ -5280,11 +5334,11 @@ File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
 )
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <7.53> not available
 (Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 248.
- [151 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
+ [153 <E:/KnowledgeDepository/Survey/疲劳检测/综述整理/疲劳检测的�
 ��展/figure/example/by-nc.png> <E:/KnowledgeDepository/Survey/疲劳检测/综
-述整理/疲劳检测的发展/figure/example/gzh.jpg>] [152 <E:/KnowledgeDepo
+述整理/疲劳检测的发展/figure/example/gzh.jpg>] [154 <E:/KnowledgeDepo
 sitory/Survey/疲劳检测/综述整理/疲劳检测的发展/figure/example/m2
-.pdf>] [153]
+.pdf>] [155]
 Overfull \hbox (85.2445pt too wide) in paragraph at lines 316--317
 []\C70/rm/m/n/10.54/53 � \C70/rm/m/n/10.54/80  \C70/rm/m/n/10.54/65 � \C70/rm/
 m/n/10.54/73 . \C70/rm/m/n/10.54/67 * \C70/rm/m/n/10.54/5f  \C70/rm/m/n/10.54/
@@ -5298,7 +5352,7 @@ y}|\C70/rm/m/n/10.54/ff | \C70/rm/m/n/10.54/59 �[]\OT1/cmtt/m/n/10.54 \nocite{
 WI64,G03,D01,JS03}\OT1/cmr/m/n/10.54 . 
  []
 
-) [154]
+) [156]
 Missing character: There is no � in font unisongff!
 Missing character: There is no � in font unisongff!
 Missing character: There is no � in font unisongff!
@@ -5400,7 +5454,7 @@ Missing character: There is no � in font unikaiff!
 Missing character: There is no g in font unikai04!
 Missing character: There is no � in font unikaiff!
 Missing character: There is no � in font unikaiff!
- [155
+ [157
 
 
 
@@ -5475,7 +5529,7 @@ Missing character: There is no � in font unisongff!
 Missing character: There is no � in font unisong03!
 Missing character: There is no � in font unisongff!
 Missing character: There is no g in font unisong04!
- [156]
+ [158]
 Missing character: There is no � in font unisong04!
 Missing character: There is no � in font unisongff!
 Missing character: There is no � in font unisongff!
@@ -5595,15 +5649,15 @@ Missing character: There is no � in font unikaiff!
 Missing character: There is no g in font unikai04!
 Missing character: There is no � in font unikaiff!
 Missing character: There is no � in font unikaiff!
-[157]
+[159]
 
 Package lastpage Warning: Rerun to get the references right on input line 77.
 
 
 AED: lastpage setting LastPage
-\newlabel{LastPage}{{}{157}{}{page.157}{}}
-\xdef\lastpage@lastpage{157}
-\xdef\lastpage@lastpageHy{157}
+\newlabel{LastPage}{{}{159}{}{page.159}{}}
+\xdef\lastpage@lastpage{159}
+\xdef\lastpage@lastpageHy{159}
 
 ! LaTeX Error: \begin{CJK*} on input line 27 ended by \end{document}.
 
@@ -5646,15 +5700,18 @@ Package logreq Info: Writing requests to 'fatigueDetection.run.xml'.
 ### semi simple group (level 1) entered at line 27 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 50153 strings out of 495354
- 912132 string characters out of 3183523
- 1591695 words of memory out of 3000000
- 50134 multiletter control sequences out of 15000+200000
- 181682 words of font info for 632 fonts, out of 3000000 for 9000
+ 50199 strings out of 495354
+ 912994 string characters out of 3183523
+ 1592323 words of memory out of 3000000
+ 50166 multiletter control sequences out of 15000+200000
+ 181973 words of font info for 633 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 62i,23n,72p,9990b,4853s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{Hfootnote.98} has been referenced b
+ 62i,23n,72p,9990b,4866s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{Hfootnote.99} has been referenced b
 ut does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.98} has been referenced but does not exis
+t, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.97} has been referenced but does not exis
 t, replaced by a fixed one
@@ -6112,9 +6169,9 @@ lic/amsfonts/symbols/msam10.pfb><F:/latex/CTEX/MiKTeX/fonts/type1/public/amsfon
 ts/symbols/msbm10.pfb><F:/latex/CTEX/MiKTeX/fonts/type1/public/cm-super/sfrm100
 0.pfb><F:/latex/CTEX/MiKTeX/fonts/type1/urw/zapfding/uzdr.pfb><F:/latex/CTEX/Mi
 KTeX/fonts/type1/public/wasy/wasy10.pfb>
-Output written on fatigueDetection.pdf (164 pages, 10743674 bytes).
+Output written on fatigueDetection.pdf (166 pages, 10879445 bytes).
 PDF statistics:
- 4578 PDF objects out of 5155 (max. 8388607)
- 1180 named destinations out of 1200 (max. 500000)
- 1932 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4616 PDF objects out of 5155 (max. 8388607)
+ 1190 named destinations out of 1200 (max. 500000)
+ 1963 words of extra memory for PDF output out of 10000 (max. 10000000)
 

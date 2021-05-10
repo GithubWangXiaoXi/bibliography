@@ -194,42 +194,44 @@
 \contentsline {subsection}{\numberline {4.3.5}Py-Feat工具包}{122}{subsection.4.3.5}
 \contentsline {subsubsection}{\numberline {4.3.5.1}Detectors模块}{122}{subsubsection.4.3.5.1}
 \contentsline {subsubsection}{\numberline {4.3.5.2}Fex数据处理模块}{124}{subsubsection.4.3.5.2}
-\contentsline {section}{\numberline {4.4}人脸姿态估计}{126}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}什么是PnP问题}{126}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}相机成像原理}{128}{subsection.4.4.2}
-\contentsline {subsubsection}{\numberline {4.4.2.1}针孔模型}{128}{subsubsection.4.4.2.1}
-\contentsline {subsubsection}{\numberline {4.4.2.2}实际成像模型}{130}{subsubsection.4.4.2.2}
-\contentsline {subsection}{\numberline {4.4.3}旋转的表示方式}{131}{subsection.4.4.3}
-\contentsline {subsubsection}{\numberline {4.4.3.1}旋转矩阵(3 $\times $ 3)}{131}{subsubsection.4.4.3.1}
-\contentsline {subsubsection}{\numberline {4.4.3.2}欧拉角}{132}{subsubsection.4.4.3.2}
-\contentsline {subsubsection}{\numberline {4.4.3.3}方向余弦矩阵}{133}{subsubsection.4.4.3.3}
-\contentsline {subsection}{\numberline {4.4.4}相机的内参数，外参数}{133}{subsection.4.4.4}
-\contentsline {subsubsection}{\numberline {4.4.4.1}径向，切向畸变}{136}{subsubsection.4.4.4.1}
-\contentsline {subsection}{\numberline {4.4.5}人脸姿态估计需要哪些信息}{136}{subsection.4.4.5}
-\contentsline {subsection}{\numberline {4.4.6}姿态估计算法}{137}{subsection.4.4.6}
-\contentsline {subsubsection}{\numberline {4.4.6.1}直接线性变换}{138}{subsubsection.4.4.6.1}
-\contentsline {subsubsection}{\numberline {4.4.6.2}Levenberg-Marquardt优化}{140}{subsubsection.4.4.6.2}
-\contentsline {section}{\numberline {4.5}信号处理}{140}{section.4.5}
-\contentsline {subsection}{\numberline {4.5.1}BVP信号提取}{140}{subsection.4.5.1}
-\contentsline {subsubsection}{\numberline {4.5.1.1}方法1 - 小波分解}{141}{subsubsection.4.5.1.1}
-\contentsline {subsubsection}{\numberline {4.5.1.2}方法2 - 颜色空间转换 + 高斯金字塔}{141}{subsubsection.4.5.1.2}
-\contentsline {subsubsection}{\numberline {4.5.1.3}方法3 - ICA}{142}{subsubsection.4.5.1.3}
-\contentsline {subsection}{\numberline {4.5.2}BVP信号特征提取}{143}{subsection.4.5.2}
-\contentsline {section}{\numberline {4.6}声纹识别}{144}{section.4.6}
-\contentsline {section}{\numberline {4.7}近5年来疲劳检测研究进展}{144}{section.4.7}
-\contentsline {chapter}{\numberline {第五章\hspace {0.3em}}疲劳检测相关专业术语}{147}{chapter.5}
-\contentsline {section}{\numberline {5.1}信号处理知识}{147}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}共振峰}{147}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}倒谱}{147}{subsection.5.1.2}
-\contentsline {section}{\numberline {5.2}医学知识}{147}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}交感神经和副交感神经}{147}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}纺锤波}{147}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}运动伪影}{147}{subsection.5.2.3}
-\contentsline {subsection}{\numberline {5.2.4}公式排版}{148}{subsection.5.2.4}
-\contentsline {subsection}{\numberline {5.2.5}SI单位}{149}{subsection.5.2.5}
-\contentsline {subsection}{\numberline {5.2.6}定理环境}{149}{subsection.5.2.6}
-\contentsline {section}{\numberline {5.3}表格}{150}{section.5.3}
-\contentsline {section}{\numberline {5.4}插入图片}{151}{section.5.4}
-\contentsline {section}{\numberline {5.5}插入代码}{151}{section.5.5}
-\contentsline {section}{\numberline {5.6}参考文献管理}{153}{section.5.6}
-\contentsline {chapter}{参考文献}{155}{chapter*.107}
+\contentsline {subsection}{\numberline {4.3.6}Aff-Wild2开源数据集}{126}{subsection.4.3.6}
+\contentsline {section}{\numberline {4.4}人脸姿态估计}{128}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}什么是PnP问题}{130}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}相机成像原理}{130}{subsection.4.4.2}
+\contentsline {subsubsection}{\numberline {4.4.2.1}针孔模型}{130}{subsubsection.4.4.2.1}
+\contentsline {subsubsection}{\numberline {4.4.2.2}实际成像模型}{132}{subsubsection.4.4.2.2}
+\contentsline {subsection}{\numberline {4.4.3}旋转的表示方式}{133}{subsection.4.4.3}
+\contentsline {subsubsection}{\numberline {4.4.3.1}旋转矩阵(3 $\times $ 3)}{133}{subsubsection.4.4.3.1}
+\contentsline {subsubsection}{\numberline {4.4.3.2}欧拉角}{134}{subsubsection.4.4.3.2}
+\contentsline {subsubsection}{\numberline {4.4.3.3}方向余弦矩阵}{135}{subsubsection.4.4.3.3}
+\contentsline {subsection}{\numberline {4.4.4}相机的内参数，外参数}{135}{subsection.4.4.4}
+\contentsline {subsubsection}{\numberline {4.4.4.1}径向，切向畸变}{138}{subsubsection.4.4.4.1}
+\contentsline {subsection}{\numberline {4.4.5}人脸姿态估计需要哪些信息}{138}{subsection.4.4.5}
+\contentsline {subsection}{\numberline {4.4.6}姿态估计算法}{139}{subsection.4.4.6}
+\contentsline {subsubsection}{\numberline {4.4.6.1}直接线性变换}{140}{subsubsection.4.4.6.1}
+\contentsline {subsubsection}{\numberline {4.4.6.2}Levenberg-Marquardt优化}{142}{subsubsection.4.4.6.2}
+\contentsline {section}{\numberline {4.5}手势识别}{142}{section.4.5}
+\contentsline {section}{\numberline {4.6}信号处理}{142}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}BVP信号提取}{142}{subsection.4.6.1}
+\contentsline {subsubsection}{\numberline {4.6.1.1}方法1 - 小波分解}{143}{subsubsection.4.6.1.1}
+\contentsline {subsubsection}{\numberline {4.6.1.2}方法2 - 颜色空间转换 + 高斯金字塔}{143}{subsubsection.4.6.1.2}
+\contentsline {subsubsection}{\numberline {4.6.1.3}方法3 - ICA}{144}{subsubsection.4.6.1.3}
+\contentsline {subsection}{\numberline {4.6.2}BVP信号特征提取}{144}{subsection.4.6.2}
+\contentsline {section}{\numberline {4.7}声纹识别}{146}{section.4.7}
+\contentsline {section}{\numberline {4.8}近5年来疲劳检测研究进展}{146}{section.4.8}
+\contentsline {chapter}{\numberline {第五章\hspace {0.3em}}疲劳检测相关专业术语}{149}{chapter.5}
+\contentsline {section}{\numberline {5.1}信号处理知识}{149}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}共振峰}{149}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}倒谱}{149}{subsection.5.1.2}
+\contentsline {section}{\numberline {5.2}医学知识}{149}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}交感神经和副交感神经}{149}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}纺锤波}{149}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}运动伪影}{149}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}公式排版}{150}{subsection.5.2.4}
+\contentsline {subsection}{\numberline {5.2.5}SI单位}{151}{subsection.5.2.5}
+\contentsline {subsection}{\numberline {5.2.6}定理环境}{151}{subsection.5.2.6}
+\contentsline {section}{\numberline {5.3}表格}{152}{section.5.3}
+\contentsline {section}{\numberline {5.4}插入图片}{153}{section.5.4}
+\contentsline {section}{\numberline {5.5}插入代码}{153}{section.5.5}
+\contentsline {section}{\numberline {5.6}参考文献管理}{155}{section.5.6}
+\contentsline {chapter}{参考文献}{157}{chapter*.110}

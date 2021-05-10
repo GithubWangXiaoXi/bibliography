@@ -634,6 +634,63 @@ Py-Feat提供一些基本的分析方法：t-test，回归，主体间相关性�
 
 对于一张静态图片或者视频帧，Py-Feat提供了plot$\_$detection方法，对图片中人脸、人脸关键点、动作单元的检测结果和情绪识别的结果进行绘制。
 
+\subsection{Aff-Wild2开源数据集}
+
+1873年，Wilhelm Wundt设计了一个二维情感分类系统（情感轮），如图\href{fig:4-17}{4-17}所示。表情按照不同维度可如下划分：
+\begin{enumerate}
+\item 如果按照Valence（即愉悦程度）从Negative到Positive进行划分，害怕、生气、厌恶、伤心归为Negative（unpleasant），惊讶、开心、放松归为Positive （pleasant）；
+\item 如果按照Arousal（即情绪波动程度）从Passive到Active进行划分，厌恶、伤心、放松归为Passive（mild），惊讶、开心、害怕、生气归为Active（intense）。
+\end{enumerate}
+
+\begin{figure}
+  \centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=2.5in]{figure/example/Aff-Wild3.png}\\
+  \caption{The 2-D Emotion Wheel}
+  \label{fig:4-17}
+\end{figure}
+
+\quad \\
+
+\href{https://ibug.doc.ic.ac.uk/resources/aff-wild2/}{Aff-Wild2下载地址}
+
+\href{https://www.sci-hub.ren/10.1109/CVPRW.2017.248}{Aff-Wild2论文地址}
+
+Aff-Wild是第一个大型“野生”表情数据库，包含60多个小时的视频数据，基本上每帧视频都包含Valence-arousal标注，8种AU标注和7种情绪标注，可以进行多任务学习。如图\href{fig:4-18}{4-18}所示\footnote{A Multi-Task Learning & Generation Framework: Valence-Arousal,
+Action Units & Primary Expressions \quad \url{https://arxiv.org/abs/1811.07771}}。
+
+\begin{figure}
+  \centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=4in]{figure/example/Aff-Wild1.jpg}\\
+  \caption{Images with their corresponding VA and AU annotations}
+  \label{fig:4-18}
+\end{figure}
+
+\quad \\
+
+1、VA Set
+
+每个标注文件均以其对应的视频命名，第一行始终是：valence，arousal，而第一行之后的每一行均显示用逗号分隔的valence和arousal值,valence和arousal的取值范围为$[-1,1]$。若存在值为$(-5,-5)$，则表示此帧未使用valence，arousal进行标注，需要忽略此帧。
+
+\quad \\
+
+2、AU Set
+
+在Aff-Wild中共64个视频，其中至少包含一种AU的帧数为139298帧，未标注AU的帧数为40702帧，总帧数为180000帧。 每个标注文件均以其对应的视频命名，每个标注文件的第一行始终为：AU1，AU2，AU4，AU6，AU12，AU15，AU20，AU25。第一行之后的每一行均显示AU注释值，以逗号分隔，每个值可以是0或1或-1，标有-1的帧表示该帧未标注AU，应被丢弃。Aff-Wild中的AU统计量如图\href{fig:4-19}{4-19}所示。
+\begin{figure}
+  \centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=4in]{figure/example/Aff-Wild2.jpg}\\
+  \caption{Total number of frames with a specific AU}
+  \label{fig:4-19}
+\end{figure}
+
+\quad \\
+
+3、Expression Set
+
+每个标注文件均以其对应的视频命名，第一行始终为：netural，anger，disgust，fair，happy，sadness，suprised。第一行之后的每一行用{0,1,2,3,4,5,6}某个值进行标注，这些值分别对应于不同的情绪。 如果标注值为-1，表示该帧未标注情绪，应被丢弃。Aff-Wild中存在一些视频，这些视频中包含两个主题，对应受试者所看到的不同的内容。两个主题都有标注，并且相应的标注文件以结尾扩展名$\_left$和$\_right$进行了区分。
 
 \section{人脸姿态估计}
 
